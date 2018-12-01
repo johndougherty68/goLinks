@@ -1,0 +1,705 @@
+info: urlMapper app listening on port 3000 {"timestamp":"2018-11-29 13:28:17"}
+info: get /workday {"timestamp":"2018-11-29 13:29:08"}
+info: Getting workday {"timestamp":"2018-11-29 13:29:08"}
+info: Returning https://www.myworkday.com/childrensplace {"timestamp":"2018-11-29 13:29:08"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 13:29:27"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 13:29:34"}
+info: get /benefits {"timestamp":"2018-11-29 13:29:48"}
+info: Getting benefits {"timestamp":"2018-11-29 13:29:48"}
+info: Returning https://titania.winstonfinancial.com/portal/The%20Children's%20Place/main%20portal/login {"timestamp":"2018-11-29 13:29:48"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 13:40:02"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 13:40:04"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 14:16:16"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 14:17:18"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 14:19:32"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 14:20:25"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 14:20:49"}
+info: admin /admin {"timestamp":"2018-11-29 14:22:13"}
+info: [0mGET /admin [31m500 [0m10.386 ms - 1126[0m
+ {"timestamp":"2018-11-29 14:22:14"}
+info: get /favicon.ico {"timestamp":"2018-11-29 14:22:14"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 14:22:14"}
+info: Returning undefined {"timestamp":"2018-11-29 14:22:14"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 14:22:45"}
+info: get /favicon.ico {"timestamp":"2018-11-29 14:22:45"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 14:22:45"}
+info: Returning undefined {"timestamp":"2018-11-29 14:22:45"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 14:23:07"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 14:23:08"}
+info: admin /admin {"timestamp":"2018-11-29 14:23:11"}
+info: [0mGET /admin [33m404 [0m7.582 ms - 213[0m
+ {"timestamp":"2018-11-29 14:23:11"}
+info: get /favicon.ico {"timestamp":"2018-11-29 14:23:11"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 14:23:11"}
+info: Returning undefined {"timestamp":"2018-11-29 14:23:11"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 14:23:23"}
+info: get /favicon.ico {"timestamp":"2018-11-29 14:23:24"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 14:23:24"}
+info: Returning undefined {"timestamp":"2018-11-29 14:23:24"}
+info: admin /admin {"timestamp":"2018-11-29 14:23:28"}
+info: [0mGET /api/tables [33m404 [0m3.627 ms - 149[0m
+ {"timestamp":"2018-11-29 14:23:29"}
+info: [0mGET /api/waitlist [33m404 [0m0.326 ms - 151[0m
+ {"timestamp":"2018-11-29 14:23:29"}
+info: get /favicon.ico {"timestamp":"2018-11-29 14:23:29"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 14:23:29"}
+info: Returning undefined {"timestamp":"2018-11-29 14:23:29"}
+info: admin /admin {"timestamp":"2018-11-29 14:24:11"}
+info: [0mGET /api/tables [33m404 [0m0.234 ms - 149[0m
+ {"timestamp":"2018-11-29 14:24:11"}
+info: [0mGET /api/waitlist [33m404 [0m0.205 ms - 151[0m
+ {"timestamp":"2018-11-29 14:24:11"}
+info: get /favicon.ico {"timestamp":"2018-11-29 14:24:11"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 14:24:11"}
+info: Returning undefined {"timestamp":"2018-11-29 14:24:11"}
+info: admin /admin {"timestamp":"2018-11-29 14:25:52"}
+info: [0mGET /api/tables [33m404 [0m0.236 ms - 149[0m
+ {"timestamp":"2018-11-29 14:25:53"}
+info: [0mGET /api/waitlist [33m404 [0m0.182 ms - 151[0m
+ {"timestamp":"2018-11-29 14:25:53"}
+info: get /favicon.ico {"timestamp":"2018-11-29 14:25:53"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 14:25:53"}
+info: Returning undefined {"timestamp":"2018-11-29 14:25:53"}
+info: get /reserve {"timestamp":"2018-11-29 14:27:34"}
+info: Getting reserve {"timestamp":"2018-11-29 14:27:34"}
+info: Returning undefined {"timestamp":"2018-11-29 14:27:34"}
+info: admin /admin {"timestamp":"2018-11-29 14:27:37"}
+info: [0mGET /api/tables [33m404 [0m0.248 ms - 149[0m
+ {"timestamp":"2018-11-29 14:27:37"}
+info: [0mGET /api/waitlist [33m404 [0m0.184 ms - 151[0m
+ {"timestamp":"2018-11-29 14:27:37"}
+info: get /favicon.ico {"timestamp":"2018-11-29 14:27:37"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 14:27:37"}
+info: Returning undefined {"timestamp":"2018-11-29 14:27:37"}
+info: admin /admin {"timestamp":"2018-11-29 14:27:51"}
+info: [0mGET /api/tables [33m404 [0m0.236 ms - 149[0m
+ {"timestamp":"2018-11-29 14:27:51"}
+info: [0mGET /api/waitlist [33m404 [0m0.187 ms - 151[0m
+ {"timestamp":"2018-11-29 14:27:51"}
+info: get /favicon.ico {"timestamp":"2018-11-29 14:27:51"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 14:27:51"}
+info: Returning undefined {"timestamp":"2018-11-29 14:27:51"}
+info: admin /admin {"timestamp":"2018-11-29 14:29:09"}
+info: [0mGET /api/tables [33m404 [0m0.207 ms - 149[0m
+ {"timestamp":"2018-11-29 14:29:09"}
+info: [0mGET /api/waitlist [33m404 [0m0.218 ms - 151[0m
+ {"timestamp":"2018-11-29 14:29:09"}
+info: get /favicon.ico {"timestamp":"2018-11-29 14:29:09"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 14:29:09"}
+info: Returning undefined {"timestamp":"2018-11-29 14:29:09"}
+info: get /favicon.ico {"timestamp":"2018-11-29 14:31:09"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 14:31:09"}
+info: Returning undefined {"timestamp":"2018-11-29 14:31:09"}
+info: admin /admin {"timestamp":"2018-11-29 14:31:32"}
+info: [0mGET /api/tables [33m404 [0m0.225 ms - 149[0m
+ {"timestamp":"2018-11-29 14:31:33"}
+info: [0mGET /api/waitlist [33m404 [0m0.177 ms - 151[0m
+ {"timestamp":"2018-11-29 14:31:33"}
+info: get /favicon.ico {"timestamp":"2018-11-29 14:31:33"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 14:31:33"}
+info: Returning undefined {"timestamp":"2018-11-29 14:31:33"}
+info: get /favicon.ico {"timestamp":"2018-11-29 14:33:33"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 14:33:33"}
+info: Returning undefined {"timestamp":"2018-11-29 14:33:33"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 15:01:54"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 15:01:57"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 15:03:00"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-11-29 15:03:10"}
+info: Getting gaf {"timestamp":"2018-11-29 15:03:10"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:03:10"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-11-29 15:03:10"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:03:10"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:03:10"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-11-29 15:03:10"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:03:10"}
+info: Returning http://www.cnn.com {"timestamp":"2018-11-29 15:03:10"}
+info: Getting gaf {"timestamp":"2018-11-29 15:03:10"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:03:10"}
+info: Checking existence of gaf {"timestamp":"2018-11-29 15:03:10"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-11-29 15:03:10"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-11-29 15:03:10"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:03:10"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:03:10"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-11-29 15:03:10"}
+info: Getting gaftobedeleted {"timestamp":"2018-11-29 15:03:10"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:03:10"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:03:10"}
+info: Returning undefined {"timestamp":"2018-11-29 15:03:10"}
+info: Getting all links {"timestamp":"2018-11-29 15:03:10"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-11-29 15:03:18"}
+info: Getting gaf {"timestamp":"2018-11-29 15:03:18"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:03:18"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-11-29 15:03:18"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:03:18"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:03:18"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-11-29 15:03:18"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:03:18"}
+info: Returning http://www.cnn.com {"timestamp":"2018-11-29 15:03:18"}
+info: Getting gaf {"timestamp":"2018-11-29 15:03:18"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:03:18"}
+info: Checking existence of gaf {"timestamp":"2018-11-29 15:03:18"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-11-29 15:03:18"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-11-29 15:03:18"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:03:18"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:03:18"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-11-29 15:03:18"}
+info: Getting gaftobedeleted {"timestamp":"2018-11-29 15:03:18"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:03:18"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:03:18"}
+info: Returning undefined {"timestamp":"2018-11-29 15:03:18"}
+info: Getting all links {"timestamp":"2018-11-29 15:03:18"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-11-29 15:03:31"}
+info: Getting gaf {"timestamp":"2018-11-29 15:03:31"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:03:31"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-11-29 15:03:31"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:03:31"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:03:31"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-11-29 15:03:31"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:03:31"}
+info: Returning http://www.cnn.com {"timestamp":"2018-11-29 15:03:31"}
+info: Getting gaf {"timestamp":"2018-11-29 15:03:31"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:03:31"}
+info: Checking existence of gaf {"timestamp":"2018-11-29 15:03:31"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-11-29 15:03:31"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-11-29 15:03:31"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:03:31"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:03:31"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-11-29 15:03:31"}
+info: Getting gaftobedeleted {"timestamp":"2018-11-29 15:03:31"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:03:31"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:03:31"}
+info: Returning undefined {"timestamp":"2018-11-29 15:03:31"}
+info: Getting all links {"timestamp":"2018-11-29 15:03:31"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-11-29 15:05:15"}
+info: Getting gaf {"timestamp":"2018-11-29 15:05:15"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:05:15"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-11-29 15:05:15"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:05:15"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:05:15"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-11-29 15:05:15"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:05:15"}
+info: Returning http://www.cnn.com {"timestamp":"2018-11-29 15:05:15"}
+info: Getting gaf {"timestamp":"2018-11-29 15:05:15"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:05:15"}
+info: Checking existence of gaf {"timestamp":"2018-11-29 15:05:15"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-11-29 15:05:15"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-11-29 15:05:15"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:05:15"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:05:15"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-11-29 15:05:15"}
+info: Getting gaftobedeleted {"timestamp":"2018-11-29 15:05:15"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:05:15"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:05:15"}
+info: Returning undefined {"timestamp":"2018-11-29 15:05:15"}
+info: Getting all links {"timestamp":"2018-11-29 15:05:15"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-11-29 15:05:31"}
+info: Getting gaf {"timestamp":"2018-11-29 15:05:31"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:05:31"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-11-29 15:05:31"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:05:31"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:05:31"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-11-29 15:05:31"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:05:31"}
+info: Returning http://www.cnn.com {"timestamp":"2018-11-29 15:05:31"}
+info: Getting gaf {"timestamp":"2018-11-29 15:05:31"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:05:31"}
+info: Checking existence of gaf {"timestamp":"2018-11-29 15:05:31"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-11-29 15:05:31"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-11-29 15:05:31"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:05:31"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:05:31"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-11-29 15:05:31"}
+info: Getting gaftobedeleted {"timestamp":"2018-11-29 15:05:31"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:05:31"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:05:31"}
+info: Returning undefined {"timestamp":"2018-11-29 15:05:31"}
+info: Getting all links {"timestamp":"2018-11-29 15:05:31"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-11-29 15:07:02"}
+info: Getting gaf {"timestamp":"2018-11-29 15:07:02"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:07:02"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-11-29 15:07:02"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:07:02"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:07:02"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-11-29 15:07:02"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:07:02"}
+info: Returning http://www.cnn.com {"timestamp":"2018-11-29 15:07:02"}
+info: Getting gaf {"timestamp":"2018-11-29 15:07:02"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:07:02"}
+info: Checking existence of gaf {"timestamp":"2018-11-29 15:07:02"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-11-29 15:07:02"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-11-29 15:07:02"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:07:02"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:07:02"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-11-29 15:07:02"}
+info: Getting gaftobedeleted {"timestamp":"2018-11-29 15:07:02"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:07:02"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:07:02"}
+info: Returning undefined {"timestamp":"2018-11-29 15:07:02"}
+info: Getting all links {"timestamp":"2018-11-29 15:07:02"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-11-29 15:07:44"}
+info: Getting gaf {"timestamp":"2018-11-29 15:07:44"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:07:44"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-11-29 15:07:44"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:07:44"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:07:44"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-11-29 15:07:44"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:07:44"}
+info: Returning http://www.cnn.com {"timestamp":"2018-11-29 15:07:44"}
+info: Getting gaf {"timestamp":"2018-11-29 15:07:44"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:07:44"}
+info: Checking existence of gaf {"timestamp":"2018-11-29 15:07:44"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-11-29 15:07:44"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-11-29 15:07:44"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:07:44"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:07:44"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-11-29 15:07:44"}
+info: Getting gaftobedeleted {"timestamp":"2018-11-29 15:07:44"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:07:44"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:07:44"}
+info: Returning undefined {"timestamp":"2018-11-29 15:07:44"}
+info: Getting all links {"timestamp":"2018-11-29 15:07:44"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-11-29 15:08:05"}
+info: Getting gaf {"timestamp":"2018-11-29 15:08:05"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:08:05"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-11-29 15:08:05"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:08:05"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:08:05"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-11-29 15:08:05"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:08:05"}
+info: Returning http://www.cnn.com {"timestamp":"2018-11-29 15:08:05"}
+info: Getting gaf {"timestamp":"2018-11-29 15:08:05"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:08:05"}
+info: Checking existence of gaf {"timestamp":"2018-11-29 15:08:05"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-11-29 15:08:05"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-11-29 15:08:05"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:08:05"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:08:05"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-11-29 15:08:05"}
+info: Getting gaftobedeleted {"timestamp":"2018-11-29 15:08:05"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:08:05"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:08:05"}
+info: Returning undefined {"timestamp":"2018-11-29 15:08:05"}
+info: Getting all links {"timestamp":"2018-11-29 15:08:05"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-11-29 15:08:16"}
+info: Getting gaf {"timestamp":"2018-11-29 15:08:16"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:08:16"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-11-29 15:08:16"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:08:16"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:08:16"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-11-29 15:08:16"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:08:16"}
+info: Returning http://www.cnn.com {"timestamp":"2018-11-29 15:08:16"}
+info: Getting gaf {"timestamp":"2018-11-29 15:08:16"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:08:16"}
+info: Checking existence of gaf {"timestamp":"2018-11-29 15:08:16"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-11-29 15:08:16"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-11-29 15:08:16"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:08:16"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:08:16"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-11-29 15:08:16"}
+info: Getting gaftobedeleted {"timestamp":"2018-11-29 15:08:16"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:08:16"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:08:16"}
+info: Returning undefined {"timestamp":"2018-11-29 15:08:16"}
+info: Getting all links {"timestamp":"2018-11-29 15:08:16"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-11-29 15:11:09"}
+info: Getting gaf {"timestamp":"2018-11-29 15:11:09"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:11:09"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-11-29 15:11:09"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:11:09"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:11:09"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-11-29 15:11:09"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:11:09"}
+info: Returning http://www.cnn.com {"timestamp":"2018-11-29 15:11:09"}
+info: Getting gaf {"timestamp":"2018-11-29 15:11:09"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:11:09"}
+info: Checking existence of gaf {"timestamp":"2018-11-29 15:11:09"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-11-29 15:11:09"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-11-29 15:11:09"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:11:09"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:11:09"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-11-29 15:11:09"}
+info: Getting gaftobedeleted {"timestamp":"2018-11-29 15:11:09"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:11:09"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:11:09"}
+info: Returning undefined {"timestamp":"2018-11-29 15:11:09"}
+info: Getting all links {"timestamp":"2018-11-29 15:11:09"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-11-29 15:11:53"}
+info: Getting gaf {"timestamp":"2018-11-29 15:11:53"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:11:53"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-11-29 15:11:53"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:11:53"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:11:53"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-11-29 15:11:53"}
+info: Getting gafNew {"timestamp":"2018-11-29 15:11:53"}
+info: Returning http://www.cnn.com {"timestamp":"2018-11-29 15:11:53"}
+info: Getting gaf {"timestamp":"2018-11-29 15:11:53"}
+info: Returning http://www.gaf.com {"timestamp":"2018-11-29 15:11:53"}
+info: Checking existence of gaf {"timestamp":"2018-11-29 15:11:53"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-11-29 15:11:53"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-11-29 15:11:53"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:11:53"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:11:53"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-11-29 15:11:53"}
+info: Getting gaftobedeleted {"timestamp":"2018-11-29 15:11:53"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-11-29 15:11:53"}
+info: Getting gafToBeDeleted {"timestamp":"2018-11-29 15:11:53"}
+info: Returning undefined {"timestamp":"2018-11-29 15:11:53"}
+info: Getting all links {"timestamp":"2018-11-29 15:11:53"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-11-29 15:13:38"}
+info: admin /admin {"timestamp":"2018-11-29 15:14:08"}
+info: [0mGET /api/tables [33m404 [0m1.295 ms - 149[0m
+ {"timestamp":"2018-11-29 15:14:09"}
+info: [0mGET /api/waitlist [33m404 [0m0.322 ms - 151[0m
+ {"timestamp":"2018-11-29 15:14:09"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:14:09"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:14:09"}
+info: Returning undefined {"timestamp":"2018-11-29 15:14:09"}
+info: getting list of links {"timestamp":"2018-11-29 15:14:14"}
+info: Getting all links {"timestamp":"2018-11-29 15:14:14"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:14:14"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:14:14"}
+info: Returning undefined {"timestamp":"2018-11-29 15:14:14"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:14:21"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:14:21"}
+info: Returning undefined {"timestamp":"2018-11-29 15:14:21"}
+info: admin /admin {"timestamp":"2018-11-29 15:18:46"}
+info: getting list of links {"timestamp":"2018-11-29 15:18:46"}
+info: Getting all links {"timestamp":"2018-11-29 15:18:46"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:18:46"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:18:46"}
+info: Returning undefined {"timestamp":"2018-11-29 15:18:46"}
+info: admin /admin {"timestamp":"2018-11-29 15:18:53"}
+info: getting list of links {"timestamp":"2018-11-29 15:18:53"}
+info: Getting all links {"timestamp":"2018-11-29 15:18:53"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:18:53"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:18:53"}
+info: Returning undefined {"timestamp":"2018-11-29 15:18:53"}
+info: admin /admin {"timestamp":"2018-11-29 15:19:18"}
+info: getting list of links {"timestamp":"2018-11-29 15:19:18"}
+info: Getting all links {"timestamp":"2018-11-29 15:19:18"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:19:18"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:19:18"}
+info: Returning undefined {"timestamp":"2018-11-29 15:19:18"}
+info: admin /admin {"timestamp":"2018-11-29 15:20:03"}
+info: getting list of links {"timestamp":"2018-11-29 15:20:03"}
+info: Getting all links {"timestamp":"2018-11-29 15:20:03"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:20:03"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:20:03"}
+info: Returning undefined {"timestamp":"2018-11-29 15:20:03"}
+info: admin /admin {"timestamp":"2018-11-29 15:20:13"}
+info: getting list of links {"timestamp":"2018-11-29 15:20:13"}
+info: Getting all links {"timestamp":"2018-11-29 15:20:13"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:20:13"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:20:13"}
+info: Returning undefined {"timestamp":"2018-11-29 15:20:13"}
+info: admin /admin {"timestamp":"2018-11-29 15:21:23"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:21:23"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:21:23"}
+info: Returning undefined {"timestamp":"2018-11-29 15:21:23"}
+info: admin /admin {"timestamp":"2018-11-29 15:21:31"}
+info: getting list of links {"timestamp":"2018-11-29 15:21:31"}
+info: Getting all links {"timestamp":"2018-11-29 15:21:31"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:21:31"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:21:31"}
+info: Returning undefined {"timestamp":"2018-11-29 15:21:31"}
+info: admin /admin {"timestamp":"2018-11-29 15:21:40"}
+info: getting list of links {"timestamp":"2018-11-29 15:21:40"}
+info: Getting all links {"timestamp":"2018-11-29 15:21:40"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:21:40"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:21:40"}
+info: Returning undefined {"timestamp":"2018-11-29 15:21:40"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:23:40"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:23:40"}
+info: Returning undefined {"timestamp":"2018-11-29 15:23:40"}
+info: admin /admin {"timestamp":"2018-11-29 15:32:27"}
+info: getting list of links {"timestamp":"2018-11-29 15:32:27"}
+info: Getting all links {"timestamp":"2018-11-29 15:32:27"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:32:27"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:32:27"}
+info: Returning undefined {"timestamp":"2018-11-29 15:32:27"}
+info: admin /admin {"timestamp":"2018-11-29 15:32:34"}
+info: getting list of links {"timestamp":"2018-11-29 15:32:34"}
+info: Getting all links {"timestamp":"2018-11-29 15:32:34"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:32:34"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:32:34"}
+info: Returning undefined {"timestamp":"2018-11-29 15:32:34"}
+info: admin /admin {"timestamp":"2018-11-29 15:33:50"}
+info: getting list of links {"timestamp":"2018-11-29 15:33:50"}
+info: Getting all links {"timestamp":"2018-11-29 15:33:50"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:33:50"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:33:50"}
+info: Returning undefined {"timestamp":"2018-11-29 15:33:50"}
+info: admin /admin {"timestamp":"2018-11-29 15:34:11"}
+info: getting list of links {"timestamp":"2018-11-29 15:34:12"}
+info: Getting all links {"timestamp":"2018-11-29 15:34:12"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:34:12"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:34:12"}
+info: Returning undefined {"timestamp":"2018-11-29 15:34:12"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:36:12"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:36:12"}
+info: Returning undefined {"timestamp":"2018-11-29 15:36:12"}
+info: admin /admin {"timestamp":"2018-11-29 15:37:32"}
+info: getting list of links {"timestamp":"2018-11-29 15:37:32"}
+info: Getting all links {"timestamp":"2018-11-29 15:37:32"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:37:32"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:37:32"}
+info: Returning undefined {"timestamp":"2018-11-29 15:37:32"}
+info: admin /admin {"timestamp":"2018-11-29 15:37:44"}
+info: getting list of links {"timestamp":"2018-11-29 15:37:44"}
+info: Getting all links {"timestamp":"2018-11-29 15:37:44"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:37:44"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:37:44"}
+info: Returning undefined {"timestamp":"2018-11-29 15:37:44"}
+info: get /[object%20Object] {"timestamp":"2018-11-29 15:37:49"}
+info: Getting [object Object] {"timestamp":"2018-11-29 15:37:49"}
+info: Returning undefined {"timestamp":"2018-11-29 15:37:49"}
+info: admin /admin {"timestamp":"2018-11-29 15:38:00"}
+info: getting list of links {"timestamp":"2018-11-29 15:38:00"}
+info: Getting all links {"timestamp":"2018-11-29 15:38:00"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:38:01"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:38:01"}
+info: Returning undefined {"timestamp":"2018-11-29 15:38:01"}
+info: admin /admin {"timestamp":"2018-11-29 15:38:16"}
+info: getting list of links {"timestamp":"2018-11-29 15:38:16"}
+info: Getting all links {"timestamp":"2018-11-29 15:38:16"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:38:17"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:38:17"}
+info: Returning undefined {"timestamp":"2018-11-29 15:38:17"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:38:21"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:38:21"}
+info: Returning undefined {"timestamp":"2018-11-29 15:38:21"}
+info: admin /admin {"timestamp":"2018-11-29 15:38:51"}
+info: getting list of links {"timestamp":"2018-11-29 15:38:51"}
+info: Getting all links {"timestamp":"2018-11-29 15:38:51"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:38:51"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:38:51"}
+info: Returning undefined {"timestamp":"2018-11-29 15:38:51"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:40:51"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:40:51"}
+info: Returning undefined {"timestamp":"2018-11-29 15:40:51"}
+info: admin /admin {"timestamp":"2018-11-29 15:41:12"}
+info: getting list of links {"timestamp":"2018-11-29 15:41:12"}
+info: Getting all links {"timestamp":"2018-11-29 15:41:12"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:41:13"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:41:13"}
+info: Returning undefined {"timestamp":"2018-11-29 15:41:13"}
+info: admin /admin {"timestamp":"2018-11-29 15:41:29"}
+info: getting list of links {"timestamp":"2018-11-29 15:41:30"}
+info: Getting all links {"timestamp":"2018-11-29 15:41:30"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:41:30"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:41:30"}
+info: Returning undefined {"timestamp":"2018-11-29 15:41:30"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:43:30"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:43:30"}
+info: Returning undefined {"timestamp":"2018-11-29 15:43:30"}
+info: admin /admin {"timestamp":"2018-11-29 15:45:14"}
+info: getting list of links {"timestamp":"2018-11-29 15:45:14"}
+info: Getting all links {"timestamp":"2018-11-29 15:45:14"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:45:14"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:45:14"}
+info: Returning undefined {"timestamp":"2018-11-29 15:45:14"}
+info: admin /admin {"timestamp":"2018-11-29 15:46:07"}
+info: getting list of links {"timestamp":"2018-11-29 15:46:08"}
+info: Getting all links {"timestamp":"2018-11-29 15:46:08"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:46:08"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:46:08"}
+info: Returning undefined {"timestamp":"2018-11-29 15:46:08"}
+info: admin /admin {"timestamp":"2018-11-29 15:46:28"}
+info: getting list of links {"timestamp":"2018-11-29 15:46:28"}
+info: Getting all links {"timestamp":"2018-11-29 15:46:28"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:46:28"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:46:28"}
+info: Returning undefined {"timestamp":"2018-11-29 15:46:28"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:48:28"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:48:28"}
+info: Returning undefined {"timestamp":"2018-11-29 15:48:28"}
+info: admin /admin {"timestamp":"2018-11-29 15:52:05"}
+info: getting list of links {"timestamp":"2018-11-29 15:52:06"}
+info: Getting all links {"timestamp":"2018-11-29 15:52:06"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:52:06"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:52:06"}
+info: Returning undefined {"timestamp":"2018-11-29 15:52:06"}
+info: admin /admin {"timestamp":"2018-11-29 15:52:24"}
+info: getting list of links {"timestamp":"2018-11-29 15:52:25"}
+info: Getting all links {"timestamp":"2018-11-29 15:52:25"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:52:25"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:52:25"}
+info: Returning undefined {"timestamp":"2018-11-29 15:52:25"}
+info: admin /admin {"timestamp":"2018-11-29 15:52:53"}
+info: getting list of links {"timestamp":"2018-11-29 15:52:53"}
+info: Getting all links {"timestamp":"2018-11-29 15:52:53"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:52:54"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:52:54"}
+info: Returning undefined {"timestamp":"2018-11-29 15:52:54"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:54:30"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:54:30"}
+info: Returning undefined {"timestamp":"2018-11-29 15:54:30"}
+info: admin /admin {"timestamp":"2018-11-29 15:54:33"}
+info: getting list of links {"timestamp":"2018-11-29 15:54:33"}
+info: Getting all links {"timestamp":"2018-11-29 15:54:33"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:54:33"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:54:33"}
+info: Returning undefined {"timestamp":"2018-11-29 15:54:33"}
+info: admin /admin {"timestamp":"2018-11-29 15:54:43"}
+info: getting list of links {"timestamp":"2018-11-29 15:54:44"}
+info: Getting all links {"timestamp":"2018-11-29 15:54:44"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:54:44"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:54:44"}
+info: Returning undefined {"timestamp":"2018-11-29 15:54:44"}
+info: admin /admin {"timestamp":"2018-11-29 15:54:55"}
+info: getting list of links {"timestamp":"2018-11-29 15:54:55"}
+info: Getting all links {"timestamp":"2018-11-29 15:54:55"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:54:55"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:54:55"}
+info: Returning undefined {"timestamp":"2018-11-29 15:54:55"}
+info: admin /admin {"timestamp":"2018-11-29 15:55:06"}
+info: getting list of links {"timestamp":"2018-11-29 15:55:07"}
+info: Getting all links {"timestamp":"2018-11-29 15:55:07"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:55:07"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:55:07"}
+info: Returning undefined {"timestamp":"2018-11-29 15:55:07"}
+info: admin /admin {"timestamp":"2018-11-29 15:55:43"}
+info: getting list of links {"timestamp":"2018-11-29 15:55:43"}
+info: Getting all links {"timestamp":"2018-11-29 15:55:43"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:55:43"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:55:43"}
+info: Returning undefined {"timestamp":"2018-11-29 15:55:43"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:57:43"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:57:43"}
+info: Returning undefined {"timestamp":"2018-11-29 15:57:43"}
+info: admin /admin {"timestamp":"2018-11-29 15:58:02"}
+info: getting list of links {"timestamp":"2018-11-29 15:58:03"}
+info: Getting all links {"timestamp":"2018-11-29 15:58:03"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:58:03"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:58:03"}
+info: Returning undefined {"timestamp":"2018-11-29 15:58:03"}
+info: admin /admin {"timestamp":"2018-11-29 15:58:18"}
+info: getting list of links {"timestamp":"2018-11-29 15:58:18"}
+info: Getting all links {"timestamp":"2018-11-29 15:58:18"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:58:18"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:58:18"}
+info: Returning undefined {"timestamp":"2018-11-29 15:58:18"}
+info: admin /admin {"timestamp":"2018-11-29 15:58:36"}
+info: getting list of links {"timestamp":"2018-11-29 15:58:37"}
+info: Getting all links {"timestamp":"2018-11-29 15:58:37"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:58:37"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:58:37"}
+info: Returning undefined {"timestamp":"2018-11-29 15:58:37"}
+info: admin /admin {"timestamp":"2018-11-29 15:58:47"}
+info: getting list of links {"timestamp":"2018-11-29 15:58:47"}
+info: Getting all links {"timestamp":"2018-11-29 15:58:47"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:58:47"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:58:47"}
+info: Returning undefined {"timestamp":"2018-11-29 15:58:47"}
+info: admin /admin {"timestamp":"2018-11-29 15:59:04"}
+info: getting list of links {"timestamp":"2018-11-29 15:59:04"}
+info: Getting all links {"timestamp":"2018-11-29 15:59:04"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:59:05"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:59:05"}
+info: Returning undefined {"timestamp":"2018-11-29 15:59:05"}
+info: admin /admin {"timestamp":"2018-11-29 15:59:13"}
+info: getting list of links {"timestamp":"2018-11-29 15:59:14"}
+info: Getting all links {"timestamp":"2018-11-29 15:59:14"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:59:14"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:59:14"}
+info: Returning undefined {"timestamp":"2018-11-29 15:59:14"}
+info: admin /admin {"timestamp":"2018-11-29 15:59:30"}
+info: getting list of links {"timestamp":"2018-11-29 15:59:31"}
+info: Getting all links {"timestamp":"2018-11-29 15:59:31"}
+info: get /favicon.ico {"timestamp":"2018-11-29 15:59:31"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 15:59:31"}
+info: Returning undefined {"timestamp":"2018-11-29 15:59:31"}
+info: admin /admin {"timestamp":"2018-11-29 16:00:42"}
+info: getting list of links {"timestamp":"2018-11-29 16:00:42"}
+info: Getting all links {"timestamp":"2018-11-29 16:00:42"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:00:42"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:00:42"}
+info: Returning undefined {"timestamp":"2018-11-29 16:00:42"}
+info: admin /admin {"timestamp":"2018-11-29 16:00:52"}
+info: getting list of links {"timestamp":"2018-11-29 16:00:52"}
+info: Getting all links {"timestamp":"2018-11-29 16:00:52"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:00:52"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:00:52"}
+info: Returning undefined {"timestamp":"2018-11-29 16:00:52"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:02:52"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:02:52"}
+info: Returning undefined {"timestamp":"2018-11-29 16:02:52"}
+info: admin /admin {"timestamp":"2018-11-29 16:03:14"}
+info: getting list of links {"timestamp":"2018-11-29 16:03:14"}
+info: Getting all links {"timestamp":"2018-11-29 16:03:14"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:03:14"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:03:14"}
+info: Returning undefined {"timestamp":"2018-11-29 16:03:14"}
+info: admin /admin {"timestamp":"2018-11-29 16:04:50"}
+info: getting list of links {"timestamp":"2018-11-29 16:04:51"}
+info: Getting all links {"timestamp":"2018-11-29 16:04:51"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:04:51"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:04:51"}
+info: Returning undefined {"timestamp":"2018-11-29 16:04:51"}
+info: admin /admin {"timestamp":"2018-11-29 16:05:24"}
+info: getting list of links {"timestamp":"2018-11-29 16:05:24"}
+info: Getting all links {"timestamp":"2018-11-29 16:05:24"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:05:24"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:05:24"}
+info: Returning undefined {"timestamp":"2018-11-29 16:05:24"}
+info: admin /admin {"timestamp":"2018-11-29 16:05:55"}
+info: getting list of links {"timestamp":"2018-11-29 16:05:55"}
+info: Getting all links {"timestamp":"2018-11-29 16:05:55"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:05:55"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:05:55"}
+info: Returning undefined {"timestamp":"2018-11-29 16:05:55"}
+info: admin /admin {"timestamp":"2018-11-29 16:06:19"}
+info: getting list of links {"timestamp":"2018-11-29 16:06:19"}
+info: Getting all links {"timestamp":"2018-11-29 16:06:19"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:06:19"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:06:19"}
+info: Returning undefined {"timestamp":"2018-11-29 16:06:19"}
+info: admin /admin {"timestamp":"2018-11-29 16:07:28"}
+info: getting list of links {"timestamp":"2018-11-29 16:07:28"}
+info: Getting all links {"timestamp":"2018-11-29 16:07:28"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:07:28"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:07:28"}
+info: Returning undefined {"timestamp":"2018-11-29 16:07:28"}
+info: admin /admin {"timestamp":"2018-11-29 16:07:46"}
+info: getting list of links {"timestamp":"2018-11-29 16:07:46"}
+info: Getting all links {"timestamp":"2018-11-29 16:07:46"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:07:46"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:07:46"}
+info: Returning undefined {"timestamp":"2018-11-29 16:07:46"}
+info: admin /admin {"timestamp":"2018-11-29 16:08:57"}
+info: getting list of links {"timestamp":"2018-11-29 16:08:58"}
+info: Getting all links {"timestamp":"2018-11-29 16:08:58"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:08:58"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:08:58"}
+info: Returning undefined {"timestamp":"2018-11-29 16:08:58"}
+info: admin /admin {"timestamp":"2018-11-29 16:10:54"}
+info: getting list of links {"timestamp":"2018-11-29 16:10:55"}
+info: Getting all links {"timestamp":"2018-11-29 16:10:55"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:10:55"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:10:55"}
+info: Returning undefined {"timestamp":"2018-11-29 16:10:55"}
+info: admin /admin {"timestamp":"2018-11-29 16:11:16"}
+info: getting list of links {"timestamp":"2018-11-29 16:11:16"}
+info: Getting all links {"timestamp":"2018-11-29 16:11:16"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:11:16"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:11:16"}
+info: Returning undefined {"timestamp":"2018-11-29 16:11:16"}
+info: admin /admin {"timestamp":"2018-11-29 16:11:27"}
+info: getting list of links {"timestamp":"2018-11-29 16:11:27"}
+info: Getting all links {"timestamp":"2018-11-29 16:11:27"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:11:27"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:11:27"}
+info: Returning undefined {"timestamp":"2018-11-29 16:11:27"}
+info: admin /admin {"timestamp":"2018-11-29 16:11:49"}
+info: getting list of links {"timestamp":"2018-11-29 16:11:49"}
+info: Getting all links {"timestamp":"2018-11-29 16:11:49"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:11:49"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:11:49"}
+info: Returning undefined {"timestamp":"2018-11-29 16:11:49"}
+info: admin /admin {"timestamp":"2018-11-29 16:11:59"}
+info: getting list of links {"timestamp":"2018-11-29 16:12:00"}
+info: Getting all links {"timestamp":"2018-11-29 16:12:00"}
+info: get /favicon.ico {"timestamp":"2018-11-29 16:12:00"}
+info: Getting favicon.ico {"timestamp":"2018-11-29 16:12:00"}
+info: Returning undefined {"timestamp":"2018-11-29 16:12:00"}

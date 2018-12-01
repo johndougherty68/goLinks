@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 14
+    },
+    "auditLog": "logs\\.6525af8f6e0582920f96d2a22b0adffb2a6238d8-audit.json",
+    "files": [
+        {
+            "date": 1543511289549,
+            "name": "logs\\urlMapper-2018-11-29.log",
+            "hash": "352df37ec34f6c5c3cd41ca68ca96138"
+        },
+        {
+            "date": 1543591570721,
+            "name": "logs\\urlMapper-2018-11-30.log",
+            "hash": "31185c07be9622043902c757b7b1f779"
+        }
+    ]
+}
