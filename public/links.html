@@ -19,6 +19,14 @@
     .newGoLink{
       margin-bottom: 10px;
     }
+    .edit-row{
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    .edit-button-row{
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
   </style>
 </head>
 
@@ -87,16 +95,21 @@
 
 <script type="text/javascript">
   $(document).ready(function(){
+
+    //click of edit icon for goLink
     $("body").on("click",".editable", function(event){
+      hideAll();
       var id = event.target.attributes[0].value;
       $("#hidden-"+id).show();
     })
 
+    //click of new goLink button
     $("body").on("click","#btnAddNew",function(){
-      console.log("sdaasd");
+      hideAll();
       $("#newGoLinkRow").show();      
     })
 
+    //click of save button of add new goLink
     $("body").on("click","#btnSave",function(){
       var newUrl = $("#newURL").val();
       var newGoLink = $("#newGoLink").val();
@@ -104,11 +117,12 @@
             
     })
 
+    //click of cancel button of add new goLink
     $("body").on("click","#btnCancel",function(){
       $("#newGoLinkRow").hide();   
-            
     });
 
+    //click of update button for goLink (to save changes)
     $("body").on("click",".update-button",function(event){
       var id = event.target.attributes[0].value.split('-')[1];
       var goLink = $("#goLink-" + id).text(); 
@@ -116,13 +130,14 @@
       updateLink(goLink, url);
     })
 
+    //click of cancel button for goLink (to cancel changes)
     $("body").on("click",".cancel-update-button",function(event){
       var id = event.target.attributes[0].value.split('-')[1];
       $("#hidden-" + id).hide();
     })
 
-
-  $("body").on("click",".deleteable", function(event){
+    //click of delete icon for goLink
+    $("body").on("click",".deleteable", function(event){
       var id = event.target.attributes[0].value.split('-')[1];
       var goLink = $("#goLink-" + id).text(); 
       deleteLink(goLink);
@@ -153,6 +168,9 @@
     })
   }
 
+  function hideAll(){
+    $(".hideable").hide();
+  }
 
   function runGoLinkQuery() {
     $("#GoLinkList").empty();
@@ -160,13 +178,8 @@
     $.ajax({ url: "/links", method: "GET" })
       .then(function(goLinks) {
 
-        // Loop through and display each of the customers
         for (var i = 0; i < goLinks.length; i++) {
 
-          // Get a reference to the goLinkList
-          
-
-          // Then display the fields in the HTML (Section Name, Date, URL)
           var listItem = $("<div class='row'>");
           listItem.append(
             $("<div class='col-md-1'><span id='" + i + "' data-goLink='" + goLinks[i].golink + "' class='fas fa-edit editable'></div>"),
@@ -177,10 +190,12 @@
 
           goLinkList.append(listItem);
 
-          var editItem = $("<div id='hidden-" + i + "' class='row hideable'>");
+          var editItem = $("<div id='hidden-" + i + "' class='row hideable edit-row'>");
           var inputHTML = "<input data-goLink='" + goLinks[i].goLink + "' class='form-control' id='input-" + i + "' value='" + goLinks[i].url + "' required>";
+          inputHTML+="<div class='edit-button-row'>";
           inputHTML+="<button id='btnUpdate-" + i + "' class='btn btn-primary update-button'>Save</button>";
           inputHTML+=" <div id='btnCancelUpdate-" + i + "' class='btn btn-default cancel-update-button'>Cancel</div>";
+          inputHTML+="</div>";
           editItem.append(
             $("<div class='col-md-1'></div>"),
             $("<div class='col-md-3'></div>"),
@@ -189,8 +204,7 @@
 
           goLinkList.append(editItem);
         }
-      
-        $(".hideable").hide();
+      hideAll();
       });
   }
 
