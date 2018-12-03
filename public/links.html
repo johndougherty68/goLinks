@@ -8,25 +8,11 @@
   <!-- Latest compiled and minified CSS & JS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="/assets/style.css"></script>
   <script src="https://code.jquery.com/jquery.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
   <style>
-    .jumbotron {
-      margin-top:10px;
-      padding-top: 20px;
-      padding-bottom: 20px;
-    }
-    .newGoLink{
-      margin-bottom: 10px;
-    }
-    .edit-row{
-      margin-top: 10px;
-      margin-bottom: 10px;
-    }
-    .edit-button-row{
-      margin-top: 5px;
-      margin-bottom: 5px;
-    }
+  
   </style>
 </head>
 
@@ -39,7 +25,7 @@
       <br>
 
       <div class="text-center">
-        <button id="btnAddNew" class="btn btn-lg btn-primary"><span class="fas fa-plus-square"></span> New Go Link</button>
+        <button id="btnAddNew" class="btn btn-lg btn-primary"><span class="fas fa-plus-square"></span> New GoLink</button>
       </div>
     </div>
     <div id="newGoLinkRow" class="row newGoLink hideable">
@@ -111,10 +97,10 @@
 
     //click of save button of add new goLink
     $("body").on("click","#btnSave",function(){
+      event.preventDefault();
       var newUrl = $("#newURL").val();
       var newGoLink = $("#newGoLink").val();
-      console.log(newUrl + " " + newGoLink);
-            
+      addLink(newGoLink, newUrl);
     })
 
     //click of cancel button of add new goLink
@@ -145,10 +131,10 @@
 
 
   function updateLink(goLink, mappedURL){
-    var data = {'goLink': goLink, 'url':mappedURL};
+    var data = {'url':mappedURL};
     $.ajax({
       type:"POST",
-      url:"/admin/link",
+      url:"/" + goLink,
       data:data,
       success:function(data){
         runGoLinkQuery();
@@ -156,11 +142,15 @@
     })
   }
 
+  function addLink(goLink, mappedURL){
+    updateLink(goLink, mappedURL);
+  }
+
   function deleteLink(goLink){
     var data = {'goLink': goLink};
     $.ajax({
       type:"DELETE",
-      url:"/admin/link",
+      url:"/" + goLink,
       data:data,
       success:function(data){
         runGoLinkQuery();

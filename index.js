@@ -4,7 +4,7 @@ const logger = require('./logger');
 const urlMapper = require('./urlMapper');
 const path = require("path");
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 80;
 
 const app = express();
 
@@ -31,18 +31,34 @@ app.get('/admin', function (req, res) {
     res.sendFile(path.join(__dirname, "./public/links.html"));
 })
 
+//get things prefaced by "assets/"
+//we need to do this, otherwise everything will be assumed to be a GoLink
+app.get('/assets/:item',function(req, res){
+    const item = req.params.item;
+    res.sendFile(path.join(__dirname, "./public/" + item));
+})
+
+//get a specific GoLink (not the same as /link, which redirects to the mapped url)
+app.get('/admin/:link',function(req, res){
+    var link = req.params.link;
+    console.log("link " + link);
+    logger.info("get " + link);
+    const mappedURL = urlMapper.get(link);
+    res.json(mappedURL);
+})
+
 //delete the given goLink
-app.delete('/admin/link', function(req, res){
-    console.log(req.body);
-    logger.info("/admin/link " + req.body.goLink + " " + req.body.url);
-    urlMapper.delete(req.body.goLink);
+app.delete('/:link', function(req, res){
+    var link = req.params.link;
+    logger.info("delete " + link );
+    urlMapper.delete(link);
     res.json(req.body);
 })
 
 //update or create goLink
-app.post('/admin/link', function(req, res){
-    logger.info("/admin/link " + req.body.goLink + " " + req.body.url);
-    urlMapper.set(req.body.goLink, req.body.url);
+app.post('/:link', function(req, res){
+    logger.info("/link " + req.params.link + " " + req.body.url);
+    urlMapper.set(req.params.link, req.body.url);
     res.json(req.body);
 })
 
@@ -50,7 +66,7 @@ app.post('/admin/link', function(req, res){
 app.get('/:link?', function (req, res) {
     logger.info("get " + req.url);
     const link = req.params.link;
-    if(urlMapper.ignoreItems.includes(link.toLowerCase()))
+//    if(urlMapper.ignoreItems.includes(link.toLowerCase()))
 
     if(link)
     {

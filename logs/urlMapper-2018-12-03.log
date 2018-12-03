@@ -1,0 +1,1123 @@
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-03 11:22:43"}
+info: Getting gaf {"timestamp":"2018-12-03 11:22:43"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:22:43"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-03 11:22:43"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:22:43"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:22:43"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-03 11:22:43"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:22:43"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-03 11:22:43"}
+info: Getting gaf {"timestamp":"2018-12-03 11:22:43"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:22:43"}
+info: Checking existence of gaf {"timestamp":"2018-12-03 11:22:43"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-03 11:22:43"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-03 11:22:43"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:22:43"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:22:43"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-03 11:22:43"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-03 11:22:43"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:22:43"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:22:43"}
+info: Returning undefined {"timestamp":"2018-12-03 11:22:43"}
+info: Getting all links {"timestamp":"2018-12-03 11:22:43"}
+info: urlMapper app listening on port 3000 {"timestamp":"2018-12-03 11:23:22"}
+info: urlMapper app listening on port 3000 {"timestamp":"2018-12-03 11:23:32"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-03 11:23:42"}
+info: Getting gaf {"timestamp":"2018-12-03 11:23:42"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:23:42"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-03 11:23:42"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:23:42"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:23:42"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-03 11:23:42"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:23:42"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-03 11:23:42"}
+info: Getting gaf {"timestamp":"2018-12-03 11:23:42"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:23:42"}
+info: Checking existence of gaf {"timestamp":"2018-12-03 11:23:42"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-03 11:23:42"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-03 11:23:42"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:23:42"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:23:42"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-03 11:23:42"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-03 11:23:42"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:23:42"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:23:42"}
+info: Returning undefined {"timestamp":"2018-12-03 11:23:42"}
+info: Getting all links {"timestamp":"2018-12-03 11:23:42"}
+info: urlMapper app listening on port 3000 {"timestamp":"2018-12-03 11:23:43"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:24:11"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-03 11:24:20"}
+info: Getting gaf {"timestamp":"2018-12-03 11:24:20"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:24:20"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-03 11:24:20"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:24:20"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:24:20"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-03 11:24:20"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:24:20"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-03 11:24:20"}
+info: Getting gaf {"timestamp":"2018-12-03 11:24:20"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:24:20"}
+info: Checking existence of gaf {"timestamp":"2018-12-03 11:24:20"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-03 11:24:20"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-03 11:24:20"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:24:20"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:24:20"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-03 11:24:20"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-03 11:24:20"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:24:20"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:24:20"}
+info: Returning undefined {"timestamp":"2018-12-03 11:24:20"}
+info: [0mGET //gaf [33m404 [0m6.366 ms - 143[0m
+ {"timestamp":"2018-12-03 11:24:20"}
+info: Getting all links {"timestamp":"2018-12-03 11:24:20"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:24:21"}
+info: admin /admin {"timestamp":"2018-12-03 11:24:38"}
+info: getting list of links {"timestamp":"2018-12-03 11:24:39"}
+info: Getting all links {"timestamp":"2018-12-03 11:24:39"}
+info: get /favicon.ico {"timestamp":"2018-12-03 11:24:39"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 11:24:39"}
+info: Returning undefined {"timestamp":"2018-12-03 11:24:39"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:25:24"}
+info: get /favicon.ico {"timestamp":"2018-12-03 11:25:24"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 11:25:24"}
+info: Returning undefined {"timestamp":"2018-12-03 11:25:24"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-03 11:25:27"}
+info: Getting gaf {"timestamp":"2018-12-03 11:25:27"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:25:27"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-03 11:25:27"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:25:27"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:25:27"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-03 11:25:27"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:25:27"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-03 11:25:27"}
+info: Getting gaf {"timestamp":"2018-12-03 11:25:27"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:25:27"}
+info: Checking existence of gaf {"timestamp":"2018-12-03 11:25:27"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-03 11:25:27"}
+info: [0mGET /gaf/gaf [33m404 [0m2.848 ms - 146[0m
+ {"timestamp":"2018-12-03 11:25:27"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-03 11:25:27"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:25:27"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:25:27"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-03 11:25:27"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-03 11:25:27"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:25:27"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:25:27"}
+info: Returning undefined {"timestamp":"2018-12-03 11:25:27"}
+info: Getting all links {"timestamp":"2018-12-03 11:25:27"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:25:28"}
+info: get /gaf {"timestamp":"2018-12-03 11:44:38"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:45:06"}
+info: admin /admin {"timestamp":"2018-12-03 11:45:13"}
+info: getting list of links {"timestamp":"2018-12-03 11:45:13"}
+info: Getting all links {"timestamp":"2018-12-03 11:45:13"}
+info: get /favicon.ico {"timestamp":"2018-12-03 11:45:13"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 11:45:13"}
+info: Returning undefined {"timestamp":"2018-12-03 11:45:13"}
+info: get /gaf {"timestamp":"2018-12-03 11:45:16"}
+info: Getting gaf {"timestamp":"2018-12-03 11:45:16"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:45:16"}
+info: get /favicon.ico {"timestamp":"2018-12-03 11:45:21"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 11:45:21"}
+info: Returning undefined {"timestamp":"2018-12-03 11:45:21"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-03 11:45:27"}
+info: Getting gaf {"timestamp":"2018-12-03 11:45:27"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:45:27"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-03 11:45:27"}
+info: [0mGET /gaf/gaf [33m404 [0m1.408 ms - 146[0m
+ {"timestamp":"2018-12-03 11:45:27"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:45:27"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:45:27"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-03 11:45:27"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:45:27"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-03 11:45:27"}
+info: Getting gaf {"timestamp":"2018-12-03 11:45:27"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:45:27"}
+info: Checking existence of gaf {"timestamp":"2018-12-03 11:45:27"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-03 11:45:27"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-03 11:45:27"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:45:27"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:45:27"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-03 11:45:27"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-03 11:45:27"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:45:27"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:45:27"}
+info: Returning undefined {"timestamp":"2018-12-03 11:45:27"}
+info: Getting all links {"timestamp":"2018-12-03 11:45:27"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:45:28"}
+info: get /favicon.ico {"timestamp":"2018-12-03 11:45:28"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 11:45:28"}
+info: Returning undefined {"timestamp":"2018-12-03 11:45:28"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:46:23"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-03 11:46:26"}
+info: Getting gaf {"timestamp":"2018-12-03 11:46:26"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:46:26"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-03 11:46:26"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:46:26"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:46:26"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-03 11:46:26"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:46:26"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-03 11:46:26"}
+info: Getting gaf {"timestamp":"2018-12-03 11:46:26"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:46:26"}
+info: Checking existence of gaf {"timestamp":"2018-12-03 11:46:26"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-03 11:46:26"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-03 11:46:26"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:46:26"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:46:26"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-03 11:46:26"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-03 11:46:26"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:46:26"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:46:26"}
+info: Returning undefined {"timestamp":"2018-12-03 11:46:26"}
+info: Getting all links {"timestamp":"2018-12-03 11:46:26"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:46:27"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:46:31"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-03 11:46:38"}
+info: Getting gaf {"timestamp":"2018-12-03 11:46:38"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:46:38"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-03 11:46:38"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:46:38"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:46:38"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-03 11:46:38"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:46:38"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-03 11:46:38"}
+info: Getting gaf {"timestamp":"2018-12-03 11:46:38"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:46:38"}
+info: [0mGET /gaf/gaf [33m404 [0m4.215 ms - 146[0m
+ {"timestamp":"2018-12-03 11:46:38"}
+info: Checking existence of gaf {"timestamp":"2018-12-03 11:46:38"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-03 11:46:38"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-03 11:46:38"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:46:38"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:46:38"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-03 11:46:38"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-03 11:46:38"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:46:38"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:46:38"}
+info: Returning undefined {"timestamp":"2018-12-03 11:46:38"}
+info: Getting all links {"timestamp":"2018-12-03 11:46:38"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:46:38"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:49:52"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:51:08"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:54:52"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:55:23"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:55:25"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:55:44"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:55:50"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:56:04"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-03 11:56:06"}
+info: Getting gaf {"timestamp":"2018-12-03 11:56:06"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:56:06"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-03 11:56:06"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:56:06"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:56:06"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-03 11:56:06"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:56:06"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-03 11:56:06"}
+info: Getting gaf {"timestamp":"2018-12-03 11:56:06"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:56:06"}
+info: Checking existence of gaf {"timestamp":"2018-12-03 11:56:06"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-03 11:56:06"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-03 11:56:06"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:56:06"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:56:06"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-03 11:56:06"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-03 11:56:06"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:56:06"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:56:06"}
+info: Returning undefined {"timestamp":"2018-12-03 11:56:06"}
+info: Getting all links {"timestamp":"2018-12-03 11:56:06"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 11:56:06"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 11:56:06"}
+info: [0mGET /admin/gaf [33m404 [0m1.806 ms - 148[0m
+ {"timestamp":"2018-12-03 11:56:06"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:56:07"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:56:18"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-03 11:56:20"}
+info: Getting gaf {"timestamp":"2018-12-03 11:56:20"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:56:20"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-03 11:56:20"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:56:20"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:56:20"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-03 11:56:20"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:56:20"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-03 11:56:20"}
+info: Getting gaf {"timestamp":"2018-12-03 11:56:20"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:56:20"}
+info: Checking existence of gaf {"timestamp":"2018-12-03 11:56:20"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-03 11:56:20"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-03 11:56:20"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:56:20"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:56:20"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-03 11:56:20"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-03 11:56:20"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:56:20"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:56:20"}
+info: Returning undefined {"timestamp":"2018-12-03 11:56:20"}
+info: Getting all links {"timestamp":"2018-12-03 11:56:20"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:56:20"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:56:26"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:56:39"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-03 11:56:41"}
+info: Getting gaf {"timestamp":"2018-12-03 11:56:41"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:56:41"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-03 11:56:41"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:56:41"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:56:41"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-03 11:56:41"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:56:41"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-03 11:56:41"}
+info: Getting gaf {"timestamp":"2018-12-03 11:56:41"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:56:41"}
+info: Checking existence of gaf {"timestamp":"2018-12-03 11:56:41"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-03 11:56:41"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-03 11:56:41"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:56:41"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:56:41"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-03 11:56:41"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-03 11:56:41"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:56:41"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:56:41"}
+info: Returning undefined {"timestamp":"2018-12-03 11:56:41"}
+info: Getting all links {"timestamp":"2018-12-03 11:56:41"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 11:56:41"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 11:56:41"}
+info: [0mGET /admin/gaf [33m404 [0m1.083 ms - 148[0m
+ {"timestamp":"2018-12-03 11:56:41"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:56:42"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:57:37"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:57:45"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-03 11:57:47"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 11:57:47"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 11:57:47"}
+info: Getting gaf {"timestamp":"2018-12-03 11:57:47"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:57:47"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-03 11:57:47"}
+info: [0mGET /admin/gaf [33m404 [0m3.610 ms - 148[0m
+ {"timestamp":"2018-12-03 11:57:47"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:57:47"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:57:47"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-03 11:57:47"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:57:47"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-03 11:57:47"}
+info: Getting gaf {"timestamp":"2018-12-03 11:57:47"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:57:47"}
+info: Checking existence of gaf {"timestamp":"2018-12-03 11:57:47"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-03 11:57:47"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-03 11:57:47"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:57:47"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:57:47"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-03 11:57:47"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-03 11:57:47"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:57:47"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:57:47"}
+info: Returning undefined {"timestamp":"2018-12-03 11:57:47"}
+info: Getting all links {"timestamp":"2018-12-03 11:57:47"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:57:48"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:58:15"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-03 11:58:17"}
+info: Getting gaf {"timestamp":"2018-12-03 11:58:17"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:58:17"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-03 11:58:17"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:58:17"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:58:17"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-03 11:58:17"}
+info: Getting gafNew {"timestamp":"2018-12-03 11:58:17"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-03 11:58:17"}
+info: Getting gaf {"timestamp":"2018-12-03 11:58:17"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 11:58:17"}
+info: Checking existence of gaf {"timestamp":"2018-12-03 11:58:17"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-03 11:58:17"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-03 11:58:17"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:58:17"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:58:17"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-03 11:58:17"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-03 11:58:17"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 11:58:17"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 11:58:17"}
+info: Returning undefined {"timestamp":"2018-12-03 11:58:17"}
+info: Getting all links {"timestamp":"2018-12-03 11:58:17"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 11:58:18"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:00:20"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:00:38"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 12:00:40"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 12:00:40"}
+info: [0mGET /admin/gaf [33m404 [0m2.514 ms - 148[0m
+ {"timestamp":"2018-12-03 12:00:40"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:00:40"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:00:50"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:01:05"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 12:01:07"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 12:01:07"}
+info: [0mGET /admin/gaf [33m404 [0m1.182 ms - 148[0m
+ {"timestamp":"2018-12-03 12:01:07"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:01:08"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:01:26"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:02:35"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:02:47"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:02:55"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:02:55"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:02:55"}
+info: [0mGET /admin/gaf [33m404 [0m1.097 ms - 148[0m
+ {"timestamp":"2018-12-03 12:02:55"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:03:39"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:03:55"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:03:55"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:03:55"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:04:55"}
+info: [0mPOST //gaf [33m404 [0m4.217 ms - 144[0m
+ {"timestamp":"2018-12-03 12:04:59"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:05:29"}
+info: [0mPOST //gaf [33m404 [0m3.050 ms - 144[0m
+ {"timestamp":"2018-12-03 12:05:33"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:05:42"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:05:42"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:05:45"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:05:49"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:05:49"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:05:49"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:06:23"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:06:32"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:06:34"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:06:34"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:06:34"}
+info: [0mGET /admin/gaf [33m404 [0m1.051 ms - 148[0m
+ {"timestamp":"2018-12-03 12:06:34"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:06:54"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:06:57"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:06:57"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:06:57"}
+info: [0mGET /admin/gaf [33m404 [0m0.989 ms - 148[0m
+ {"timestamp":"2018-12-03 12:06:57"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:08:01"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:08:10"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:08:17"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:08:17"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:08:17"}
+info: [0mGET /admin/gaf [33m404 [0m0.988 ms - 148[0m
+ {"timestamp":"2018-12-03 12:08:17"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:09:04"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:09:06"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:09:06"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:09:06"}
+info: [0mGET /admin/gaf [33m404 [0m1.009 ms - 148[0m
+ {"timestamp":"2018-12-03 12:09:06"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:09:15"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:09:22"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:09:24"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:09:24"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:09:24"}
+info: get undefined {"timestamp":"2018-12-03 12:09:24"}
+info: Getting undefined {"timestamp":"2018-12-03 12:09:24"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:09:24"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:09:46"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:09:48"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:09:48"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:09:48"}
+info: get undefined {"timestamp":"2018-12-03 12:09:48"}
+info: Getting undefined {"timestamp":"2018-12-03 12:09:48"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:09:48"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:10:02"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:10:12"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:10:17"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:10:22"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:10:22"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:10:22"}
+info: get undefined {"timestamp":"2018-12-03 12:10:22"}
+info: Getting undefined {"timestamp":"2018-12-03 12:10:22"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:10:22"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:10:42"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:11:13"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:11:18"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:11:20"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:11:20"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:11:20"}
+info: get undefined {"timestamp":"2018-12-03 12:11:20"}
+info: Getting undefined {"timestamp":"2018-12-03 12:11:20"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:11:20"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:11:39"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:12:11"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:12:13"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:12:13"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:12:13"}
+info: get undefined {"timestamp":"2018-12-03 12:12:13"}
+info: Getting undefined {"timestamp":"2018-12-03 12:12:13"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:12:13"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:12:18"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:12:21"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:12:21"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:12:21"}
+info: get undefined {"timestamp":"2018-12-03 12:12:21"}
+info: Getting undefined {"timestamp":"2018-12-03 12:12:21"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:12:21"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:12:33"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:13:01"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:13:09"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:13:11"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:13:11"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:13:11"}
+info: get undefined {"timestamp":"2018-12-03 12:13:11"}
+info: Getting undefined {"timestamp":"2018-12-03 12:13:11"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:13:11"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:13:41"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:13:48"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:13:48"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:13:48"}
+info: get undefined {"timestamp":"2018-12-03 12:13:48"}
+info: Getting undefined {"timestamp":"2018-12-03 12:13:48"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:13:48"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:14:36"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:14:42"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:14:49"}
+info: /link undefined http://www.app.com {"timestamp":"2018-12-03 12:14:52"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:14:52"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:14:52"}
+info: get undefined {"timestamp":"2018-12-03 12:14:52"}
+info: Getting undefined {"timestamp":"2018-12-03 12:14:52"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:14:52"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:16:02"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:16:08"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 12:16:13"}
+info: Setting undefined to http://www.app.com {"timestamp":"2018-12-03 12:16:13"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:16:13"}
+info: get gaf {"timestamp":"2018-12-03 12:16:13"}
+info: Getting undefined {"timestamp":"2018-12-03 12:16:13"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:16:13"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:16:27"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 12:16:32"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 12:16:32"}
+info: get gaf {"timestamp":"2018-12-03 12:16:32"}
+info: Getting undefined {"timestamp":"2018-12-03 12:16:32"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:16:32"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:16:33"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:17:12"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 12:17:17"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 12:17:17"}
+info: get gaf {"timestamp":"2018-12-03 12:17:17"}
+info: Getting undefined {"timestamp":"2018-12-03 12:17:17"}
+error: Cannot read property 'toLowerCase' of undefined {"timestamp":"2018-12-03 12:17:17"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:17:18"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:17:51"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:18:10"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 12:18:14"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 12:18:14"}
+info: get gaf {"timestamp":"2018-12-03 12:18:14"}
+info: Getting gaf {"timestamp":"2018-12-03 12:18:14"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 12:18:14"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:18:15"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:18:38"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 12:18:42"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 12:18:42"}
+info: get gaf {"timestamp":"2018-12-03 12:18:42"}
+info: Getting gaf {"timestamp":"2018-12-03 12:18:42"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 12:18:42"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:18:43"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 12:18:55"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 12:18:55"}
+info: get gaf {"timestamp":"2018-12-03 12:18:55"}
+info: Getting gaf {"timestamp":"2018-12-03 12:18:55"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 12:18:55"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 12:18:56"}
+info: admin /admin {"timestamp":"2018-12-03 12:42:16"}
+info: getting list of links {"timestamp":"2018-12-03 12:42:16"}
+info: Getting all links {"timestamp":"2018-12-03 12:42:16"}
+info: get /favicon.ico {"timestamp":"2018-12-03 12:42:16"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 12:42:16"}
+info: Returning undefined {"timestamp":"2018-12-03 12:42:16"}
+info: get /favicon.ico {"timestamp":"2018-12-03 12:44:16"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 12:44:16"}
+info: Returning undefined {"timestamp":"2018-12-03 12:44:16"}
+info: /link link http://www.cnn.com1 {"timestamp":"2018-12-03 13:13:31"}
+info: Setting link to http://www.cnn.com1 {"timestamp":"2018-12-03 13:13:31"}
+info: getting list of links {"timestamp":"2018-12-03 13:13:31"}
+info: Getting all links {"timestamp":"2018-12-03 13:13:31"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:13:32"}
+info: admin /admin {"timestamp":"2018-12-03 13:13:36"}
+info: getting list of links {"timestamp":"2018-12-03 13:13:37"}
+info: Getting all links {"timestamp":"2018-12-03 13:13:37"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:13:37"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:13:37"}
+info: Returning undefined {"timestamp":"2018-12-03 13:13:37"}
+info: admin /admin {"timestamp":"2018-12-03 13:14:31"}
+info: getting list of links {"timestamp":"2018-12-03 13:14:31"}
+info: Getting all links {"timestamp":"2018-12-03 13:14:31"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:14:31"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:14:31"}
+info: Returning undefined {"timestamp":"2018-12-03 13:14:31"}
+info: /admin/link link undefined {"timestamp":"2018-12-03 13:14:34"}
+info: Deleting link {"timestamp":"2018-12-03 13:14:34"}
+info: Getting link {"timestamp":"2018-12-03 13:14:34"}
+info: Returning http://www.cnn.com1 {"timestamp":"2018-12-03 13:14:34"}
+info: getting list of links {"timestamp":"2018-12-03 13:14:34"}
+info: Getting all links {"timestamp":"2018-12-03 13:14:34"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:14:35"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:14:35"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:14:35"}
+info: Returning undefined {"timestamp":"2018-12-03 13:14:35"}
+info: admin /admin {"timestamp":"2018-12-03 13:14:36"}
+info: getting list of links {"timestamp":"2018-12-03 13:14:36"}
+info: Getting all links {"timestamp":"2018-12-03 13:14:36"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:14:36"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:14:36"}
+info: Returning undefined {"timestamp":"2018-12-03 13:14:36"}
+info: /link gaf http://www.app.comqq {"timestamp":"2018-12-03 13:14:41"}
+info: Setting gaf to http://www.app.comqq {"timestamp":"2018-12-03 13:14:41"}
+info: getting list of links {"timestamp":"2018-12-03 13:14:41"}
+info: Getting all links {"timestamp":"2018-12-03 13:14:41"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:14:42"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:14:42"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:14:42"}
+info: Returning undefined {"timestamp":"2018-12-03 13:14:42"}
+info: admin /admin {"timestamp":"2018-12-03 13:14:43"}
+info: getting list of links {"timestamp":"2018-12-03 13:14:43"}
+info: Getting all links {"timestamp":"2018-12-03 13:14:43"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:14:43"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:14:43"}
+info: Returning undefined {"timestamp":"2018-12-03 13:14:43"}
+info: admin /admin {"timestamp":"2018-12-03 13:14:44"}
+info: getting list of links {"timestamp":"2018-12-03 13:14:44"}
+info: Getting all links {"timestamp":"2018-12-03 13:14:44"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:14:44"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:14:44"}
+info: Returning undefined {"timestamp":"2018-12-03 13:14:44"}
+info: admin /admin {"timestamp":"2018-12-03 13:14:44"}
+info: getting list of links {"timestamp":"2018-12-03 13:14:44"}
+info: Getting all links {"timestamp":"2018-12-03 13:14:44"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:14:44"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:14:44"}
+info: Returning undefined {"timestamp":"2018-12-03 13:14:44"}
+info: admin /admin {"timestamp":"2018-12-03 13:14:45"}
+info: getting list of links {"timestamp":"2018-12-03 13:14:45"}
+info: Getting all links {"timestamp":"2018-12-03 13:14:45"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:14:45"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:14:45"}
+info: Returning undefined {"timestamp":"2018-12-03 13:14:45"}
+info: admin /admin {"timestamp":"2018-12-03 13:14:45"}
+info: getting list of links {"timestamp":"2018-12-03 13:14:45"}
+info: Getting all links {"timestamp":"2018-12-03 13:14:45"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:14:46"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:14:46"}
+info: Returning undefined {"timestamp":"2018-12-03 13:14:46"}
+info: admin /admin? {"timestamp":"2018-12-03 13:14:51"}
+info: getting list of links {"timestamp":"2018-12-03 13:14:51"}
+info: Getting all links {"timestamp":"2018-12-03 13:14:51"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:14:51"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:14:51"}
+info: Returning undefined {"timestamp":"2018-12-03 13:14:51"}
+info: admin /admin? {"timestamp":"2018-12-03 13:14:53"}
+info: getting list of links {"timestamp":"2018-12-03 13:14:53"}
+info: Getting all links {"timestamp":"2018-12-03 13:14:53"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:14:53"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:14:53"}
+info: Returning undefined {"timestamp":"2018-12-03 13:14:53"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:16:53"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:16:53"}
+info: Returning undefined {"timestamp":"2018-12-03 13:16:53"}
+info: admin /admin? {"timestamp":"2018-12-03 13:18:24"}
+info: getting list of links {"timestamp":"2018-12-03 13:18:24"}
+info: Getting all links {"timestamp":"2018-12-03 13:18:24"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:18:24"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:18:24"}
+info: Returning undefined {"timestamp":"2018-12-03 13:18:24"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 13:18:37"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:18:37"}
+info: get gaf {"timestamp":"2018-12-03 13:18:37"}
+info: Getting gaf {"timestamp":"2018-12-03 13:18:37"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:18:37"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:18:38"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:18:38"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:18:38"}
+info: Returning undefined {"timestamp":"2018-12-03 13:18:38"}
+info: admin /admin? {"timestamp":"2018-12-03 13:18:40"}
+info: getting list of links {"timestamp":"2018-12-03 13:18:40"}
+info: Getting all links {"timestamp":"2018-12-03 13:18:40"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:18:40"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:18:40"}
+info: Returning undefined {"timestamp":"2018-12-03 13:18:40"}
+info: admin /admin? {"timestamp":"2018-12-03 13:18:56"}
+info: getting list of links {"timestamp":"2018-12-03 13:18:56"}
+info: Getting all links {"timestamp":"2018-12-03 13:18:56"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:18:57"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:18:57"}
+info: Returning undefined {"timestamp":"2018-12-03 13:18:57"}
+info: /link gaf http://www.app.comww {"timestamp":"2018-12-03 13:19:00"}
+info: Setting gaf to http://www.app.comww {"timestamp":"2018-12-03 13:19:00"}
+info: getting list of links {"timestamp":"2018-12-03 13:19:00"}
+info: Getting all links {"timestamp":"2018-12-03 13:19:00"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:19:01"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:19:01"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:19:01"}
+info: Returning undefined {"timestamp":"2018-12-03 13:19:01"}
+info: admin /admin? {"timestamp":"2018-12-03 13:19:01"}
+info: getting list of links {"timestamp":"2018-12-03 13:19:01"}
+info: Getting all links {"timestamp":"2018-12-03 13:19:01"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:19:01"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:19:01"}
+info: Returning undefined {"timestamp":"2018-12-03 13:19:01"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 13:19:06"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:19:06"}
+info: get gaf {"timestamp":"2018-12-03 13:19:06"}
+info: Getting gaf {"timestamp":"2018-12-03 13:19:06"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:19:06"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:19:07"}
+info: admin /admin? {"timestamp":"2018-12-03 13:19:07"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:19:07"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:19:07"}
+info: Returning undefined {"timestamp":"2018-12-03 13:19:07"}
+info: getting list of links {"timestamp":"2018-12-03 13:19:08"}
+info: Getting all links {"timestamp":"2018-12-03 13:19:08"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:19:08"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:19:08"}
+info: Returning undefined {"timestamp":"2018-12-03 13:19:08"}
+info: get gaf {"timestamp":"2018-12-03 13:19:26"}
+info: Getting gaf {"timestamp":"2018-12-03 13:19:26"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:19:26"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:19:46"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:19:46"}
+info: Returning undefined {"timestamp":"2018-12-03 13:19:46"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:19:58"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:19:58"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:19:58"}
+info: Returning undefined {"timestamp":"2018-12-03 13:19:58"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 13:20:06"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:20:06"}
+info: get gaf {"timestamp":"2018-12-03 13:20:06"}
+info: Getting gaf {"timestamp":"2018-12-03 13:20:06"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:20:06"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:20:07"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:20:21"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 13:20:24"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:20:24"}
+info: get gaf {"timestamp":"2018-12-03 13:20:24"}
+info: Getting gaf {"timestamp":"2018-12-03 13:20:24"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:20:24"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:20:25"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 13:20:31"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:20:31"}
+info: get gaf {"timestamp":"2018-12-03 13:20:31"}
+info: Getting gaf {"timestamp":"2018-12-03 13:20:31"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:20:31"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:20:32"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:20:34"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:20:41"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 13:20:42"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:20:42"}
+info: get gaf {"timestamp":"2018-12-03 13:20:42"}
+info: Getting gaf {"timestamp":"2018-12-03 13:20:42"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:20:42"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:20:43"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:21:03"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:21:04"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 13:21:06"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:21:06"}
+info: get gaf {"timestamp":"2018-12-03 13:21:06"}
+info: Getting gaf {"timestamp":"2018-12-03 13:21:06"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:21:06"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:21:07"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:23:04"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 13:23:06"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:23:06"}
+info: get gaf {"timestamp":"2018-12-03 13:23:06"}
+info: Getting gaf {"timestamp":"2018-12-03 13:23:06"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:23:06"}
+info: get gaf {"timestamp":"2018-12-03 13:23:06"}
+info: Getting gaf {"timestamp":"2018-12-03 13:23:06"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:23:06"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:23:07"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:23:11"}
+info: get gaf {"timestamp":"2018-12-03 13:23:13"}
+info: Getting gaf {"timestamp":"2018-12-03 13:23:13"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:23:13"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 13:23:13"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:23:13"}
+info: get gaf {"timestamp":"2018-12-03 13:23:13"}
+info: Getting gaf {"timestamp":"2018-12-03 13:23:13"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:23:13"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:23:13"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:23:18"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:24:04"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:24:45"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:25:36"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:25:40"}
+info: Getting gaf {"timestamp":"2018-12-03 13:25:40"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:25:40"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 13:25:40"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:25:40"}
+info: get gaf {"timestamp":"2018-12-03 13:25:40"}
+info: Getting gaf {"timestamp":"2018-12-03 13:25:40"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:25:40"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 13:25:40"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:25:40"}
+info: get gaf {"timestamp":"2018-12-03 13:25:40"}
+info: Getting gaf {"timestamp":"2018-12-03 13:25:40"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:25:40"}
+info: get gaf {"timestamp":"2018-12-03 13:25:40"}
+info: Getting gaf {"timestamp":"2018-12-03 13:25:40"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:25:40"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:25:41"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:25:56"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:25:59"}
+info: get gaf {"timestamp":"2018-12-03 13:25:59"}
+info: Getting gaf {"timestamp":"2018-12-03 13:25:59"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:25:59"}
+info: Getting gaf {"timestamp":"2018-12-03 13:25:59"}
+info: Returning undefined {"timestamp":"2018-12-03 13:25:59"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 13:25:59"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:25:59"}
+info: /link gaf http://www.app.com {"timestamp":"2018-12-03 13:25:59"}
+info: Setting gaf to http://www.app.com {"timestamp":"2018-12-03 13:25:59"}
+info: get gaf {"timestamp":"2018-12-03 13:25:59"}
+info: Getting gaf {"timestamp":"2018-12-03 13:25:59"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:25:59"}
+info: get gaf {"timestamp":"2018-12-03 13:25:59"}
+info: Getting gaf {"timestamp":"2018-12-03 13:25:59"}
+info: Returning http://www.app.com {"timestamp":"2018-12-03 13:25:59"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:26:00"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:26:48"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:26:54"}
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-03 13:27:03"}
+info: Getting gaf {"timestamp":"2018-12-03 13:27:03"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 13:27:03"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-03 13:27:03"}
+info: Getting gafNew {"timestamp":"2018-12-03 13:27:03"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 13:27:03"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-03 13:27:03"}
+info: Getting gafNew {"timestamp":"2018-12-03 13:27:03"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-03 13:27:03"}
+info: Getting gaf {"timestamp":"2018-12-03 13:27:03"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-03 13:27:03"}
+info: Checking existence of gaf {"timestamp":"2018-12-03 13:27:03"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-03 13:27:03"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-03 13:27:03"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 13:27:03"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 13:27:03"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-03 13:27:03"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-03 13:27:03"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-03 13:27:03"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-03 13:27:03"}
+info: Returning undefined {"timestamp":"2018-12-03 13:27:03"}
+info: Getting all links {"timestamp":"2018-12-03 13:27:03"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:27:04"}
+info: admin /admin? {"timestamp":"2018-12-03 13:27:39"}
+info: getting list of links {"timestamp":"2018-12-03 13:27:39"}
+info: Getting all links {"timestamp":"2018-12-03 13:27:39"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:27:39"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:27:39"}
+info: Returning undefined {"timestamp":"2018-12-03 13:27:39"}
+info: admin /admin? {"timestamp":"2018-12-03 13:27:42"}
+info: getting list of links {"timestamp":"2018-12-03 13:27:42"}
+info: Getting all links {"timestamp":"2018-12-03 13:27:42"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:27:42"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:27:42"}
+info: Returning undefined {"timestamp":"2018-12-03 13:27:42"}
+info: admin /admin? {"timestamp":"2018-12-03 13:28:27"}
+info: getting list of links {"timestamp":"2018-12-03 13:28:27"}
+info: Getting all links {"timestamp":"2018-12-03 13:28:27"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:28:27"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:28:27"}
+info: Returning undefined {"timestamp":"2018-12-03 13:28:27"}
+info: admin /admin? {"timestamp":"2018-12-03 13:28:34"}
+info: getting list of links {"timestamp":"2018-12-03 13:28:34"}
+info: Getting all links {"timestamp":"2018-12-03 13:28:34"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:28:34"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:28:34"}
+info: Returning undefined {"timestamp":"2018-12-03 13:28:34"}
+info: admin /admin? {"timestamp":"2018-12-03 13:29:23"}
+info: getting list of links {"timestamp":"2018-12-03 13:29:24"}
+info: Getting all links {"timestamp":"2018-12-03 13:29:24"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:29:24"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:29:24"}
+info: Returning undefined {"timestamp":"2018-12-03 13:29:24"}
+info: admin /admin? {"timestamp":"2018-12-03 13:30:19"}
+info: getting list of links {"timestamp":"2018-12-03 13:30:19"}
+info: Getting all links {"timestamp":"2018-12-03 13:30:19"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:30:19"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:30:19"}
+info: Returning undefined {"timestamp":"2018-12-03 13:30:19"}
+info: admin /admin? {"timestamp":"2018-12-03 13:31:07"}
+info: getting list of links {"timestamp":"2018-12-03 13:31:07"}
+info: Getting all links {"timestamp":"2018-12-03 13:31:07"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:31:07"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:31:07"}
+info: Returning undefined {"timestamp":"2018-12-03 13:31:07"}
+info: /link qwe 123123 {"timestamp":"2018-12-03 13:31:12"}
+info: Setting qwe to 123123 {"timestamp":"2018-12-03 13:31:12"}
+info: getting list of links {"timestamp":"2018-12-03 13:31:12"}
+info: Getting all links {"timestamp":"2018-12-03 13:31:12"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:31:13"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:31:13"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:31:13"}
+info: Returning undefined {"timestamp":"2018-12-03 13:31:13"}
+info: admin /admin? {"timestamp":"2018-12-03 13:31:14"}
+info: getting list of links {"timestamp":"2018-12-03 13:31:15"}
+info: Getting all links {"timestamp":"2018-12-03 13:31:15"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:31:15"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:31:15"}
+info: Returning undefined {"timestamp":"2018-12-03 13:31:15"}
+info: admin /admin? {"timestamp":"2018-12-03 13:31:16"}
+info: getting list of links {"timestamp":"2018-12-03 13:31:16"}
+info: Getting all links {"timestamp":"2018-12-03 13:31:16"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:31:16"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:31:16"}
+info: Returning undefined {"timestamp":"2018-12-03 13:31:16"}
+info: admin /admin? {"timestamp":"2018-12-03 13:31:16"}
+info: getting list of links {"timestamp":"2018-12-03 13:31:17"}
+info: Getting all links {"timestamp":"2018-12-03 13:31:17"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:31:17"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:31:17"}
+info: Returning undefined {"timestamp":"2018-12-03 13:31:17"}
+info: /link qwe 123123eee {"timestamp":"2018-12-03 13:31:27"}
+info: Setting qwe to 123123eee {"timestamp":"2018-12-03 13:31:27"}
+info: getting list of links {"timestamp":"2018-12-03 13:31:27"}
+info: Getting all links {"timestamp":"2018-12-03 13:31:27"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:31:28"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:31:28"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:31:28"}
+info: Returning undefined {"timestamp":"2018-12-03 13:31:28"}
+info: [0mDELETE /qwe [33m404 [0m1.094 ms - 145[0m
+ {"timestamp":"2018-12-03 13:31:33"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:32:13"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:32:28"}
+info: admin /admin? {"timestamp":"2018-12-03 13:32:30"}
+info: getting list of links {"timestamp":"2018-12-03 13:32:31"}
+info: Getting all links {"timestamp":"2018-12-03 13:32:31"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:32:31"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:32:31"}
+info: Returning undefined {"timestamp":"2018-12-03 13:32:31"}
+info: delete qwe {"timestamp":"2018-12-03 13:32:32"}
+info: Deleting qwe {"timestamp":"2018-12-03 13:32:32"}
+info: Getting qwe {"timestamp":"2018-12-03 13:32:32"}
+info: Returning 123123eee {"timestamp":"2018-12-03 13:32:32"}
+info: getting list of links {"timestamp":"2018-12-03 13:32:32"}
+info: Getting all links {"timestamp":"2018-12-03 13:32:32"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:32:33"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:32:33"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:32:33"}
+info: Returning undefined {"timestamp":"2018-12-03 13:32:33"}
+info: admin /admin? {"timestamp":"2018-12-03 13:32:34"}
+info: getting list of links {"timestamp":"2018-12-03 13:32:34"}
+info: Getting all links {"timestamp":"2018-12-03 13:32:34"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:32:34"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:32:34"}
+info: Returning undefined {"timestamp":"2018-12-03 13:32:34"}
+info: admin /admin? {"timestamp":"2018-12-03 13:33:09"}
+info: getting list of links {"timestamp":"2018-12-03 13:33:10"}
+info: Getting all links {"timestamp":"2018-12-03 13:33:10"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:33:10"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:33:10"}
+info: Returning undefined {"timestamp":"2018-12-03 13:33:10"}
+info: admin /admin? {"timestamp":"2018-12-03 13:33:23"}
+info: getting list of links {"timestamp":"2018-12-03 13:33:23"}
+info: Getting all links {"timestamp":"2018-12-03 13:33:23"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:33:23"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:33:23"}
+info: Returning undefined {"timestamp":"2018-12-03 13:33:23"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:35:23"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:35:23"}
+info: Returning undefined {"timestamp":"2018-12-03 13:35:23"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:35:29"}
+info: admin /admin? {"timestamp":"2018-12-03 13:36:04"}
+info: get /popper.min.js {"timestamp":"2018-12-03 13:36:04"}
+info: Getting popper.min.js {"timestamp":"2018-12-03 13:36:04"}
+info: Returning undefined {"timestamp":"2018-12-03 13:36:04"}
+info: admin /admin {"timestamp":"2018-12-03 13:36:12"}
+info: get /popper.min.js {"timestamp":"2018-12-03 13:36:12"}
+info: Getting popper.min.js {"timestamp":"2018-12-03 13:36:12"}
+info: Returning undefined {"timestamp":"2018-12-03 13:36:12"}
+info: admin /admin {"timestamp":"2018-12-03 13:36:22"}
+info: getting list of links {"timestamp":"2018-12-03 13:36:22"}
+info: Getting all links {"timestamp":"2018-12-03 13:36:22"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:36:22"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:36:22"}
+info: Returning undefined {"timestamp":"2018-12-03 13:36:22"}
+info: admin /admin {"timestamp":"2018-12-03 13:36:44"}
+info: get /popper.min.js {"timestamp":"2018-12-03 13:36:44"}
+info: Getting popper.min.js {"timestamp":"2018-12-03 13:36:44"}
+info: Returning undefined {"timestamp":"2018-12-03 13:36:44"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:39:13"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:39:46"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:39:51"}
+info: admin /admin {"timestamp":"2018-12-03 13:39:54"}
+info: get /popper.min.js {"timestamp":"2018-12-03 13:39:54"}
+info: Getting popper.min.js {"timestamp":"2018-12-03 13:39:54"}
+info: Returning undefined {"timestamp":"2018-12-03 13:39:54"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:40:25"}
+info: admin /admin {"timestamp":"2018-12-03 13:40:32"}
+info: getting list of links {"timestamp":"2018-12-03 13:40:32"}
+info: Getting all links {"timestamp":"2018-12-03 13:40:32"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:40:33"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:40:33"}
+info: Returning undefined {"timestamp":"2018-12-03 13:40:33"}
+info: [0mGET /assets/popper.min.js.map [33m404 [0m2.634 ms - 226[0m
+ {"timestamp":"2018-12-03 13:40:41"}
+info: admin /admin {"timestamp":"2018-12-03 13:41:36"}
+info: [0mGET /assets/popper.min.js.map [33m404 [0m0.970 ms - 226[0m
+ {"timestamp":"2018-12-03 13:41:36"}
+info: getting list of links {"timestamp":"2018-12-03 13:41:36"}
+info: Getting all links {"timestamp":"2018-12-03 13:41:36"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:41:36"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:41:36"}
+info: Returning undefined {"timestamp":"2018-12-03 13:41:36"}
+info: admin /admin {"timestamp":"2018-12-03 13:42:00"}
+info: getting list of links {"timestamp":"2018-12-03 13:42:00"}
+info: Getting all links {"timestamp":"2018-12-03 13:42:00"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:42:00"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:42:00"}
+info: Returning undefined {"timestamp":"2018-12-03 13:42:00"}
+info: [0mGET /assets/popper.min.js.map [33m404 [0m0.795 ms - 226[0m
+ {"timestamp":"2018-12-03 13:42:00"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:42:33"}
+info: admin /admin {"timestamp":"2018-12-03 13:43:41"}
+info: [0mGET /assets/bootstrap-confirmation.js [33m404 [0m10.341 ms - 234[0m
+ {"timestamp":"2018-12-03 13:43:41"}
+info: [0mGET /assets/bootstrap-confirmation.js [33m404 [0m0.624 ms - 234[0m
+ {"timestamp":"2018-12-03 13:43:42"}
+info: [0mGET /assets/popper.min.js.map [33m404 [0m0.609 ms - 226[0m
+ {"timestamp":"2018-12-03 13:43:42"}
+info: getting list of links {"timestamp":"2018-12-03 13:43:42"}
+info: Getting all links {"timestamp":"2018-12-03 13:43:42"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:43:42"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:43:42"}
+info: Returning undefined {"timestamp":"2018-12-03 13:43:42"}
+info: admin /admin {"timestamp":"2018-12-03 13:43:54"}
+info: [0mGET /assets/bootstrap-confirmation.js [33m404 [0m2.744 ms - 234[0m
+ {"timestamp":"2018-12-03 13:43:54"}
+info: [0mGET /assets/bootstrap-confirmation.js [33m404 [0m1.008 ms - 234[0m
+ {"timestamp":"2018-12-03 13:43:55"}
+info: [0mGET /assets/popper.min.js.map [33m404 [0m0.645 ms - 226[0m
+ {"timestamp":"2018-12-03 13:43:55"}
+info: getting list of links {"timestamp":"2018-12-03 13:43:55"}
+info: Getting all links {"timestamp":"2018-12-03 13:43:55"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:43:55"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:43:55"}
+info: Returning undefined {"timestamp":"2018-12-03 13:43:55"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:44:04"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:44:04"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:44:04"}
+info: Returning undefined {"timestamp":"2018-12-03 13:44:04"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:44:20"}
+info: admin /admin {"timestamp":"2018-12-03 13:44:22"}
+info: getting list of links {"timestamp":"2018-12-03 13:44:22"}
+info: Getting all links {"timestamp":"2018-12-03 13:44:22"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:44:22"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:44:22"}
+info: Returning undefined {"timestamp":"2018-12-03 13:44:22"}
+info: [0mGET /assets/popper.min.js.map [33m404 [0m3.564 ms - 226[0m
+ {"timestamp":"2018-12-03 13:44:22"}
+info: [0mGET /assets/bootstrap-confirmation.min.js.map [33m404 [0m1.391 ms - 242[0m
+ {"timestamp":"2018-12-03 13:44:22"}
+info: /link aaddsa dsasadsaddsa {"timestamp":"2018-12-03 13:44:27"}
+info: Setting aaddsa to dsasadsaddsa {"timestamp":"2018-12-03 13:44:27"}
+info: getting list of links {"timestamp":"2018-12-03 13:44:27"}
+info: Getting all links {"timestamp":"2018-12-03 13:44:27"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:44:28"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:44:29"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:44:29"}
+info: Returning undefined {"timestamp":"2018-12-03 13:44:29"}
+info: [0mDELETE / [33m404 [0m1.096 ms - 142[0m
+ {"timestamp":"2018-12-03 13:44:30"}
+info: admin /admin {"timestamp":"2018-12-03 13:45:37"}
+info: getting list of links {"timestamp":"2018-12-03 13:45:38"}
+info: Getting all links {"timestamp":"2018-12-03 13:45:38"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:45:38"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:45:38"}
+info: Returning undefined {"timestamp":"2018-12-03 13:45:38"}
+info: [0mGET /assets/popper.min.js.map [33m404 [0m4.652 ms - 226[0m
+ {"timestamp":"2018-12-03 13:45:38"}
+info: [0mGET /assets/bootstrap-confirmation.min.js.map [33m404 [0m0.690 ms - 242[0m
+ {"timestamp":"2018-12-03 13:45:38"}
+info: delete aaddsa {"timestamp":"2018-12-03 13:45:39"}
+info: Deleting aaddsa {"timestamp":"2018-12-03 13:45:39"}
+info: Getting aaddsa {"timestamp":"2018-12-03 13:45:39"}
+info: Returning dsasadsaddsa {"timestamp":"2018-12-03 13:45:39"}
+info: getting list of links {"timestamp":"2018-12-03 13:45:39"}
+info: Getting all links {"timestamp":"2018-12-03 13:45:39"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:45:41"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:45:41"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:45:41"}
+info: Returning undefined {"timestamp":"2018-12-03 13:45:41"}
+info: admin /admin {"timestamp":"2018-12-03 13:46:07"}
+info: getting list of links {"timestamp":"2018-12-03 13:46:08"}
+info: Getting all links {"timestamp":"2018-12-03 13:46:08"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:46:08"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:46:08"}
+info: Returning undefined {"timestamp":"2018-12-03 13:46:08"}
+info: [0mGET /assets/popper.min.js.map [33m404 [0m3.475 ms - 226[0m
+ {"timestamp":"2018-12-03 13:46:08"}
+info: [0mGET /assets/bootstrap-confirmation.min.js.map [33m404 [0m0.753 ms - 242[0m
+ {"timestamp":"2018-12-03 13:46:08"}
+info: /link dsaasd dsaasddsadsa {"timestamp":"2018-12-03 13:46:12"}
+info: Setting dsaasd to dsaasddsadsa {"timestamp":"2018-12-03 13:46:12"}
+info: getting list of links {"timestamp":"2018-12-03 13:46:12"}
+info: Getting all links {"timestamp":"2018-12-03 13:46:12"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:46:13"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:46:13"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:46:13"}
+info: Returning undefined {"timestamp":"2018-12-03 13:46:13"}
+info: admin /admin {"timestamp":"2018-12-03 13:47:28"}
+info: [0mGET /assets/popper.min.js.map [33m404 [0m2.817 ms - 226[0m
+ {"timestamp":"2018-12-03 13:47:29"}
+info: [0mGET /assets/bootstrap-confirmation.min.js.map [33m404 [0m0.570 ms - 242[0m
+ {"timestamp":"2018-12-03 13:47:29"}
+info: getting list of links {"timestamp":"2018-12-03 13:47:29"}
+info: Getting all links {"timestamp":"2018-12-03 13:47:29"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:47:29"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:47:29"}
+info: Returning undefined {"timestamp":"2018-12-03 13:47:29"}
+info: delete dsaasd {"timestamp":"2018-12-03 13:47:35"}
+info: Deleting dsaasd {"timestamp":"2018-12-03 13:47:35"}
+info: Getting dsaasd {"timestamp":"2018-12-03 13:47:35"}
+info: Returning dsaasddsadsa {"timestamp":"2018-12-03 13:47:35"}
+info: getting list of links {"timestamp":"2018-12-03 13:47:35"}
+info: Getting all links {"timestamp":"2018-12-03 13:47:35"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:47:36"}
+info: get /favicon.ico {"timestamp":"2018-12-03 13:47:36"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 13:47:36"}
+info: Returning undefined {"timestamp":"2018-12-03 13:47:36"}
+info: /link eeeeeeeeee 2222222222 {"timestamp":"2018-12-03 13:47:41"}
+info: Setting eeeeeeeeee to 2222222222 {"timestamp":"2018-12-03 13:47:41"}
+info: getting list of links {"timestamp":"2018-12-03 13:47:41"}
+info: Getting all links {"timestamp":"2018-12-03 13:47:41"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:47:42"}
+info: delete eeeeeeeeee {"timestamp":"2018-12-03 13:50:19"}
+info: Deleting eeeeeeeeee {"timestamp":"2018-12-03 13:50:19"}
+info: Getting eeeeeeeeee {"timestamp":"2018-12-03 13:50:19"}
+info: Returning 2222222222 {"timestamp":"2018-12-03 13:50:19"}
+info: getting list of links {"timestamp":"2018-12-03 13:50:19"}
+info: Getting all links {"timestamp":"2018-12-03 13:50:19"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 13:50:20"}
+info: admin /admin {"timestamp":"2018-12-03 14:17:20"}
+info: getting list of links {"timestamp":"2018-12-03 14:17:21"}
+info: Getting all links {"timestamp":"2018-12-03 14:17:21"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:17:21"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:17:21"}
+info: Returning undefined {"timestamp":"2018-12-03 14:17:21"}
+info: [0mGET /assets/popper.min.js.map [33m404 [0m7.055 ms - 226[0m
+ {"timestamp":"2018-12-03 14:17:21"}
+info: [0mGET /assets/bootstrap-confirmation.min.js.map [33m404 [0m0.905 ms - 242[0m
+ {"timestamp":"2018-12-03 14:17:21"}
+info: /link sad adsads {"timestamp":"2018-12-03 14:17:26"}
+info: Setting sad to adsads {"timestamp":"2018-12-03 14:17:26"}
+info: getting list of links {"timestamp":"2018-12-03 14:17:26"}
+info: Getting all links {"timestamp":"2018-12-03 14:17:26"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 14:17:27"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:17:27"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:17:27"}
+info: Returning undefined {"timestamp":"2018-12-03 14:17:27"}
+info: delete sad {"timestamp":"2018-12-03 14:17:28"}
+info: Deleting sad {"timestamp":"2018-12-03 14:17:28"}
+info: Getting sad {"timestamp":"2018-12-03 14:17:28"}
+info: Returning adsads {"timestamp":"2018-12-03 14:17:28"}
+info: getting list of links {"timestamp":"2018-12-03 14:17:28"}
+info: Getting all links {"timestamp":"2018-12-03 14:17:28"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 14:17:29"}
+info: admin /admin {"timestamp":"2018-12-03 14:18:00"}
+info: getting list of links {"timestamp":"2018-12-03 14:18:01"}
+info: Getting all links {"timestamp":"2018-12-03 14:18:01"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:18:01"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:18:01"}
+info: Returning undefined {"timestamp":"2018-12-03 14:18:01"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:20:01"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:20:01"}
+info: Returning undefined {"timestamp":"2018-12-03 14:20:01"}

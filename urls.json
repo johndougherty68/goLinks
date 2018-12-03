@@ -1,5 +1,4 @@
 {
-  "pay": "http://tcpnet/payroll-resource-center",
-  "benefits": "https://titania.winstonfinancial.com/portal/The%20Children",
-  "gaf": "http://www.gaf.com"
+  "gaf": "http://www.gaf.com",
+  "gafnew": "http://www.cnn.com"
 }

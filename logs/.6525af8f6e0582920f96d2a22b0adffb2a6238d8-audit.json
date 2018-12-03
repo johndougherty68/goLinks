@@ -14,6 +14,11 @@
             "date": 1543591570721,
             "name": "logs\\urlMapper-2018-11-30.log",
             "hash": "31185c07be9622043902c757b7b1f779"
+        },
+        {
+            "date": 1543854163307,
+            "name": "logs\\urlMapper-2018-12-03.log",
+            "hash": "fe801686166c75a2d3971850d603763e"
         }
     ]
 }

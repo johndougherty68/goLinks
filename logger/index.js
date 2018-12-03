@@ -32,7 +32,7 @@ var options = {
 const logger = createLogger({
     transports: [
         new transports.DailyRotateFile(options.file),
-        //new winston.transports.Console(options.console)
+        new transports.Console(options.console)
     ],
     exitOnError: false, // do not exit on handled exceptions
 });
