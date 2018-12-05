@@ -1121,3 +1121,100 @@ info: Returning undefined {"timestamp":"2018-12-03 14:18:01"}
 info: get /favicon.ico {"timestamp":"2018-12-03 14:20:01"}
 info: Getting favicon.ico {"timestamp":"2018-12-03 14:20:01"}
 info: Returning undefined {"timestamp":"2018-12-03 14:20:01"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 14:25:07"}
+info: admin /admin {"timestamp":"2018-12-03 14:25:54"}
+info: getting list of links {"timestamp":"2018-12-03 14:25:54"}
+info: Getting all links {"timestamp":"2018-12-03 14:25:54"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:25:54"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:25:54"}
+info: Returning undefined {"timestamp":"2018-12-03 14:25:54"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 14:26:33"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:26:33"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:26:33"}
+info: Returning undefined {"timestamp":"2018-12-03 14:26:33"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 14:26:52"}
+info: admin /admin {"timestamp":"2018-12-03 14:27:35"}
+info: getting list of links {"timestamp":"2018-12-03 14:27:36"}
+info: Getting all links {"timestamp":"2018-12-03 14:27:36"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:27:36"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:27:36"}
+info: Returning undefined {"timestamp":"2018-12-03 14:27:36"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 14:28:02"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:28:02"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:28:02"}
+info: Returning undefined {"timestamp":"2018-12-03 14:28:02"}
+info: admin /admin {"timestamp":"2018-12-03 14:28:04"}
+info: getting list of links {"timestamp":"2018-12-03 14:28:04"}
+info: Getting all links {"timestamp":"2018-12-03 14:28:04"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:28:04"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:28:04"}
+info: Returning undefined {"timestamp":"2018-12-03 14:28:04"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 14:29:38"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:29:38"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:29:38"}
+info: Returning undefined {"timestamp":"2018-12-03 14:29:38"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 14:29:41"}
+info: admin /admin {"timestamp":"2018-12-03 14:29:42"}
+info: getting list of links {"timestamp":"2018-12-03 14:29:42"}
+info: Getting all links {"timestamp":"2018-12-03 14:29:42"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:29:42"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:29:42"}
+info: Returning undefined {"timestamp":"2018-12-03 14:29:42"}
+info: /link adsdsa ewqqewweq {"timestamp":"2018-12-03 14:29:46"}
+info: Setting adsdsa to ewqqewweq {"timestamp":"2018-12-03 14:29:46"}
+info: getting list of links {"timestamp":"2018-12-03 14:29:46"}
+info: Getting all links {"timestamp":"2018-12-03 14:29:46"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 14:29:47"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:29:47"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:29:47"}
+info: Returning undefined {"timestamp":"2018-12-03 14:29:47"}
+info: delete adsdsa {"timestamp":"2018-12-03 14:29:56"}
+info: Deleting adsdsa {"timestamp":"2018-12-03 14:29:56"}
+info: Getting adsdsa {"timestamp":"2018-12-03 14:29:56"}
+info: Returning ewqqewweq {"timestamp":"2018-12-03 14:29:56"}
+info: getting list of links {"timestamp":"2018-12-03 14:29:56"}
+info: Getting all links {"timestamp":"2018-12-03 14:29:56"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 14:29:57"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 14:30:41"}
+info: admin /admin {"timestamp":"2018-12-03 14:30:42"}
+info: getting list of links {"timestamp":"2018-12-03 14:30:43"}
+info: Getting all links {"timestamp":"2018-12-03 14:30:43"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:30:43"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:30:43"}
+info: Returning undefined {"timestamp":"2018-12-03 14:30:43"}
+info: /link dasdsa dsaads {"timestamp":"2018-12-03 14:30:46"}
+info: Setting dasdsa to dsaads {"timestamp":"2018-12-03 14:30:46"}
+info: getting list of links {"timestamp":"2018-12-03 14:30:46"}
+info: Getting all links {"timestamp":"2018-12-03 14:30:46"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 14:30:47"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:30:48"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:30:48"}
+info: Returning undefined {"timestamp":"2018-12-03 14:30:48"}
+info: delete dasdsa {"timestamp":"2018-12-03 14:30:53"}
+info: Deleting dasdsa {"timestamp":"2018-12-03 14:30:53"}
+info: Getting dasdsa {"timestamp":"2018-12-03 14:30:53"}
+info: Returning dsaads {"timestamp":"2018-12-03 14:30:53"}
+info: getting list of links {"timestamp":"2018-12-03 14:30:53"}
+info: Getting all links {"timestamp":"2018-12-03 14:30:53"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-03 14:30:54"}
+info: admin /admin {"timestamp":"2018-12-03 14:32:01"}
+info: getting list of links {"timestamp":"2018-12-03 14:32:01"}
+info: Getting all links {"timestamp":"2018-12-03 14:32:01"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:32:01"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:32:01"}
+info: Returning undefined {"timestamp":"2018-12-03 14:32:01"}
+info: admin /admin {"timestamp":"2018-12-03 14:32:24"}
+info: getting list of links {"timestamp":"2018-12-03 14:32:25"}
+info: Getting all links {"timestamp":"2018-12-03 14:32:25"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:32:25"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:32:25"}
+info: Returning undefined {"timestamp":"2018-12-03 14:32:25"}
+info: admin /admin {"timestamp":"2018-12-03 14:32:27"}
+info: getting list of links {"timestamp":"2018-12-03 14:32:27"}
+info: Getting all links {"timestamp":"2018-12-03 14:32:27"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:32:27"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:32:27"}
+info: Returning undefined {"timestamp":"2018-12-03 14:32:27"}
+info: get /favicon.ico {"timestamp":"2018-12-03 14:34:27"}
+info: Getting favicon.ico {"timestamp":"2018-12-03 14:34:27"}
+info: Returning undefined {"timestamp":"2018-12-03 14:34:27"}

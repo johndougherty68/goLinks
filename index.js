@@ -17,6 +17,11 @@ app.use(morgan('dev', {
     }, stream: logger.stream
 }));
 
+//favicon
+app.get('/favicon.ico', function(req, res){
+    res.sendFile(path.join(__dirname, "./public/favicon.ico"));
+})
+
 //get the whole list of links
 app.get('/links', function(req, res){
     logger.info("getting list of links");

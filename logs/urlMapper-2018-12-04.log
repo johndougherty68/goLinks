@@ -1,0 +1,19 @@
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-04 13:05:28"}
+info: admin /admin {"timestamp":"2018-12-04 13:05:29"}
+info: getting list of links {"timestamp":"2018-12-04 13:05:29"}
+info: Getting all links {"timestamp":"2018-12-04 13:05:29"}
+info: [0mGET /favicon.ico [33m404 [0m2.698 ms - 221[0m
+ {"timestamp":"2018-12-04 13:05:30"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-04 13:05:52"}
+info: admin /admin {"timestamp":"2018-12-04 13:05:54"}
+info: getting list of links {"timestamp":"2018-12-04 13:05:54"}
+info: Getting all links {"timestamp":"2018-12-04 13:05:54"}
+info: admin /admin {"timestamp":"2018-12-04 13:06:00"}
+info: getting list of links {"timestamp":"2018-12-04 13:06:00"}
+info: Getting all links {"timestamp":"2018-12-04 13:06:00"}
+info: admin /admin {"timestamp":"2018-12-04 14:42:58"}
+info: getting list of links {"timestamp":"2018-12-04 14:42:58"}
+info: Getting all links {"timestamp":"2018-12-04 14:42:58"}
+info: admin /admin {"timestamp":"2018-12-04 14:43:48"}
+info: getting list of links {"timestamp":"2018-12-04 14:43:49"}
+info: Getting all links {"timestamp":"2018-12-04 14:43:49"}
