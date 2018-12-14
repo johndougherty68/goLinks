@@ -24,6 +24,26 @@
             "date": 1543946728560,
             "name": "logs\\urlMapper-2018-12-04.log",
             "hash": "b62e2b6d6d749746e40da77891467358"
+        },
+        {
+            "date": 1544193757216,
+            "name": "logs\\urlMapper-2018-12-07.log",
+            "hash": "a1753d99a005fbd5592764dc8a7420e6"
+        },
+        {
+            "date": 1544544901755,
+            "name": "logs\\urlMapper-2018-12-11.log",
+            "hash": "9ebd6fd53b2bb1772fd8e37a7b6a5afd"
+        },
+        {
+            "date": 1544624905922,
+            "name": "logs\\urlMapper-2018-12-12.log",
+            "hash": "e10da7c8d4b8142cad653fad17b4a1bd"
+        },
+        {
+            "date": 1544800389396,
+            "name": "logs\\urlMapper-2018-12-14.log",
+            "hash": "f344b2f49d6f1c9f2d8f50c0687addaa"
         }
     ]
 }

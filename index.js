@@ -49,7 +49,12 @@ app.get('/admin/:link',function(req, res){
     console.log("link " + link);
     logger.info("get " + link);
     const mappedURL = urlMapper.get(link);
-    res.json(mappedURL);
+    if(mappedURL){
+        res.json({'result':mappedURL});
+    }
+    else{
+        res.json({'result':'noexist'});
+    }
 })
 
 //delete the given goLink
@@ -67,6 +72,11 @@ app.post('/:link', function(req, res){
     res.json(req.body);
 })
 
+//404 (need to do it like this to use a querystring)
+app.get('/404', function(req, res){
+    res.sendFile(path.join(__dirname, "./public/404.html"));
+})
+
 //get the url for the given goLink 
 app.get('/:link?', function (req, res) {
     logger.info("get " + req.url);
@@ -75,13 +85,19 @@ app.get('/:link?', function (req, res) {
 
     if(link)
     {
+        console.log(link);
         const mappedURL = urlMapper.get(link);
         if(mappedURL)
         {
             res.redirect(mappedURL);
         }
-    }
+        else
+        {
+            console.log("404");
+            res.redirect("/404?goLink=" + link);
+        }}
 })
+
 
 app.listen(PORT, function(){
     logger.info('urlMapper app listening on port ' + PORT);

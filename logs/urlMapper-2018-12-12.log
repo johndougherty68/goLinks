@@ -1,0 +1,378 @@
+info: get /sdaadsasd {"timestamp":"2018-12-12 09:28:25"}
+info: Getting sdaadsasd {"timestamp":"2018-12-12 09:28:25"}
+info: Returning undefined {"timestamp":"2018-12-12 09:28:25"}
+info: get /sdaadsasd {"timestamp":"2018-12-12 10:24:05"}
+info: Getting sdaadsasd {"timestamp":"2018-12-12 10:24:05"}
+info: Returning undefined {"timestamp":"2018-12-12 10:24:05"}
+info: get /sdaadsasd {"timestamp":"2018-12-12 10:24:55"}
+info: Getting sdaadsasd {"timestamp":"2018-12-12 10:24:55"}
+info: Returning undefined {"timestamp":"2018-12-12 10:24:55"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:08:51"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:09:44"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:14:32"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:26:28"}
+info: admin /admin {"timestamp":"2018-12-12 14:26:40"}
+info: getting list of links {"timestamp":"2018-12-12 14:26:41"}
+info: Getting all links {"timestamp":"2018-12-12 14:26:41"}
+info: /link tctest tctest {"timestamp":"2018-12-12 14:26:42"}
+info: Setting tctest to tctest {"timestamp":"2018-12-12 14:26:42"}
+info: getting list of links {"timestamp":"2018-12-12 14:26:43"}
+info: Getting all links {"timestamp":"2018-12-12 14:26:43"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:26:44"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:27:07"}
+info: admin /admin {"timestamp":"2018-12-12 14:27:17"}
+info: getting list of links {"timestamp":"2018-12-12 14:27:18"}
+info: Getting all links {"timestamp":"2018-12-12 14:27:18"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:32:03"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:32:24"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:33:27"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:33:30"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:35:17"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:35:49"}
+info: admin /admin {"timestamp":"2018-12-12 14:35:53"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:36:38"}
+info: admin /admin {"timestamp":"2018-12-12 14:36:40"}
+info: getting list of links {"timestamp":"2018-12-12 14:36:41"}
+info: Getting all links {"timestamp":"2018-12-12 14:36:41"}
+info: /link eee eeeeeee {"timestamp":"2018-12-12 14:36:49"}
+info: Setting eee to eeeeeee {"timestamp":"2018-12-12 14:36:49"}
+info: getting list of links {"timestamp":"2018-12-12 14:36:49"}
+info: Getting all links {"timestamp":"2018-12-12 14:36:49"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:36:50"}
+info: /link eeeeeeee eeeeeee {"timestamp":"2018-12-12 14:37:04"}
+info: Setting eeeeeeee to eeeeeee {"timestamp":"2018-12-12 14:37:04"}
+info: getting list of links {"timestamp":"2018-12-12 14:37:04"}
+info: Getting all links {"timestamp":"2018-12-12 14:37:04"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:37:04"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:39:07"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:39:47"}
+info: admin /admin {"timestamp":"2018-12-12 14:40:37"}
+info: getting list of links {"timestamp":"2018-12-12 14:40:37"}
+info: Getting all links {"timestamp":"2018-12-12 14:40:37"}
+info: /link dddd wwww {"timestamp":"2018-12-12 14:40:44"}
+info: Setting dddd to wwww {"timestamp":"2018-12-12 14:40:44"}
+info: getting list of links {"timestamp":"2018-12-12 14:40:44"}
+info: Getting all links {"timestamp":"2018-12-12 14:40:44"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:40:45"}
+info: admin /admin {"timestamp":"2018-12-12 14:45:46"}
+info: getting list of links {"timestamp":"2018-12-12 14:45:47"}
+info: Getting all links {"timestamp":"2018-12-12 14:45:47"}
+info: /link werrr wwww {"timestamp":"2018-12-12 14:45:55"}
+info: Setting werrr to wwww {"timestamp":"2018-12-12 14:45:55"}
+info: getting list of links {"timestamp":"2018-12-12 14:45:55"}
+info: Getting all links {"timestamp":"2018-12-12 14:45:55"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:45:56"}
+info: admin /admin {"timestamp":"2018-12-12 14:46:30"}
+info: getting list of links {"timestamp":"2018-12-12 14:46:31"}
+info: Getting all links {"timestamp":"2018-12-12 14:46:31"}
+info: admin /admin {"timestamp":"2018-12-12 14:46:38"}
+info: getting list of links {"timestamp":"2018-12-12 14:46:38"}
+info: Getting all links {"timestamp":"2018-12-12 14:46:38"}
+info: admin /admin {"timestamp":"2018-12-12 14:50:07"}
+info: getting list of links {"timestamp":"2018-12-12 14:50:08"}
+info: Getting all links {"timestamp":"2018-12-12 14:50:08"}
+info: admin /admin {"timestamp":"2018-12-12 14:50:18"}
+info: getting list of links {"timestamp":"2018-12-12 14:50:19"}
+info: Getting all links {"timestamp":"2018-12-12 14:50:19"}
+info: admin /admin {"timestamp":"2018-12-12 14:50:51"}
+info: getting list of links {"timestamp":"2018-12-12 14:50:51"}
+info: Getting all links {"timestamp":"2018-12-12 14:50:51"}
+info: admin /admin {"timestamp":"2018-12-12 14:51:38"}
+info: getting list of links {"timestamp":"2018-12-12 14:51:38"}
+info: Getting all links {"timestamp":"2018-12-12 14:51:38"}
+info: /link asdasd sdasd {"timestamp":"2018-12-12 14:51:47"}
+info: Setting asdasd to sdasd {"timestamp":"2018-12-12 14:51:47"}
+info: getting list of links {"timestamp":"2018-12-12 14:51:47"}
+info: Getting all links {"timestamp":"2018-12-12 14:51:47"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:51:48"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:52:28"}
+info: admin /admin {"timestamp":"2018-12-12 14:52:28"}
+info: getting list of links {"timestamp":"2018-12-12 14:52:29"}
+info: Getting all links {"timestamp":"2018-12-12 14:52:29"}
+info: /link asdasd ssdsd {"timestamp":"2018-12-12 14:52:34"}
+info: Setting asdasd to ssdsd {"timestamp":"2018-12-12 14:52:34"}
+info: getting list of links {"timestamp":"2018-12-12 14:52:34"}
+info: Getting all links {"timestamp":"2018-12-12 14:52:34"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:52:35"}
+info: admin /admin {"timestamp":"2018-12-12 14:53:18"}
+info: getting list of links {"timestamp":"2018-12-12 14:53:18"}
+info: Getting all links {"timestamp":"2018-12-12 14:53:18"}
+info: /link werwer werwer {"timestamp":"2018-12-12 14:53:28"}
+info: Setting werwer to werwer {"timestamp":"2018-12-12 14:53:28"}
+info: getting list of links {"timestamp":"2018-12-12 14:53:28"}
+info: Getting all links {"timestamp":"2018-12-12 14:53:28"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:53:29"}
+info: admin /admin {"timestamp":"2018-12-12 14:54:25"}
+info: getting list of links {"timestamp":"2018-12-12 14:54:26"}
+info: Getting all links {"timestamp":"2018-12-12 14:54:26"}
+info: /link aaa aaa {"timestamp":"2018-12-12 14:54:31"}
+info: Setting aaa to aaa {"timestamp":"2018-12-12 14:54:31"}
+info: getting list of links {"timestamp":"2018-12-12 14:54:31"}
+info: Getting all links {"timestamp":"2018-12-12 14:54:31"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:54:33"}
+info: delete ffff {"timestamp":"2018-12-12 14:54:41"}
+info: Deleting ffff {"timestamp":"2018-12-12 14:54:41"}
+info: Getting ffff {"timestamp":"2018-12-12 14:54:41"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-12 14:54:41"}
+info: getting list of links {"timestamp":"2018-12-12 14:54:41"}
+info: Getting all links {"timestamp":"2018-12-12 14:54:41"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:54:42"}
+info: delete eee {"timestamp":"2018-12-12 14:54:45"}
+info: Deleting eee {"timestamp":"2018-12-12 14:54:45"}
+info: Getting eee {"timestamp":"2018-12-12 14:54:45"}
+info: Returning eeeeeee {"timestamp":"2018-12-12 14:54:45"}
+info: getting list of links {"timestamp":"2018-12-12 14:54:45"}
+info: Getting all links {"timestamp":"2018-12-12 14:54:45"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:54:46"}
+info: delete eeeeeeee {"timestamp":"2018-12-12 14:54:49"}
+info: Deleting eeeeeeee {"timestamp":"2018-12-12 14:54:49"}
+info: Getting eeeeeeee {"timestamp":"2018-12-12 14:54:49"}
+info: Returning eeeeeee {"timestamp":"2018-12-12 14:54:49"}
+info: getting list of links {"timestamp":"2018-12-12 14:54:49"}
+info: Getting all links {"timestamp":"2018-12-12 14:54:49"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:54:50"}
+info: delete dddd {"timestamp":"2018-12-12 14:54:52"}
+info: Deleting dddd {"timestamp":"2018-12-12 14:54:52"}
+info: Getting dddd {"timestamp":"2018-12-12 14:54:52"}
+info: Returning wwww {"timestamp":"2018-12-12 14:54:52"}
+info: getting list of links {"timestamp":"2018-12-12 14:54:52"}
+info: Getting all links {"timestamp":"2018-12-12 14:54:52"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:54:53"}
+info: delete werrr {"timestamp":"2018-12-12 14:54:55"}
+info: Deleting werrr {"timestamp":"2018-12-12 14:54:55"}
+info: Getting werrr {"timestamp":"2018-12-12 14:54:55"}
+info: Returning wwww {"timestamp":"2018-12-12 14:54:55"}
+info: getting list of links {"timestamp":"2018-12-12 14:54:55"}
+info: Getting all links {"timestamp":"2018-12-12 14:54:55"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:54:57"}
+info: delete asdasd {"timestamp":"2018-12-12 14:54:58"}
+info: Deleting asdasd {"timestamp":"2018-12-12 14:54:58"}
+info: Getting asdasd {"timestamp":"2018-12-12 14:54:58"}
+info: Returning ssdsd {"timestamp":"2018-12-12 14:54:58"}
+info: getting list of links {"timestamp":"2018-12-12 14:54:58"}
+info: Getting all links {"timestamp":"2018-12-12 14:54:58"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:55:00"}
+info: delete werwer {"timestamp":"2018-12-12 14:55:01"}
+info: Deleting werwer {"timestamp":"2018-12-12 14:55:01"}
+info: Getting werwer {"timestamp":"2018-12-12 14:55:01"}
+info: Returning werwer {"timestamp":"2018-12-12 14:55:01"}
+info: getting list of links {"timestamp":"2018-12-12 14:55:01"}
+info: Getting all links {"timestamp":"2018-12-12 14:55:01"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:55:03"}
+info: delete aaa {"timestamp":"2018-12-12 14:55:04"}
+info: Deleting aaa {"timestamp":"2018-12-12 14:55:04"}
+info: Getting aaa {"timestamp":"2018-12-12 14:55:04"}
+info: Returning aaa {"timestamp":"2018-12-12 14:55:04"}
+info: getting list of links {"timestamp":"2018-12-12 14:55:04"}
+info: Getting all links {"timestamp":"2018-12-12 14:55:04"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:55:05"}
+info: delete tctest {"timestamp":"2018-12-12 14:55:11"}
+info: Deleting tctest {"timestamp":"2018-12-12 14:55:11"}
+info: Getting tctest {"timestamp":"2018-12-12 14:55:11"}
+info: Returning tctest {"timestamp":"2018-12-12 14:55:11"}
+info: getting list of links {"timestamp":"2018-12-12 14:55:11"}
+info: Getting all links {"timestamp":"2018-12-12 14:55:11"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:55:13"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:55:22"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:56:05"}
+info: admin /admin {"timestamp":"2018-12-12 14:56:22"}
+info: getting list of links {"timestamp":"2018-12-12 14:56:24"}
+info: Getting all links {"timestamp":"2018-12-12 14:56:24"}
+info: /link tctest tctest {"timestamp":"2018-12-12 14:56:26"}
+info: Setting tctest to tctest {"timestamp":"2018-12-12 14:56:26"}
+info: getting list of links {"timestamp":"2018-12-12 14:56:26"}
+info: Getting all links {"timestamp":"2018-12-12 14:56:26"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:56:29"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 14:56:57"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:28:11"}
+info: admin /admin {"timestamp":"2018-12-12 15:28:15"}
+info: getting list of links {"timestamp":"2018-12-12 15:28:15"}
+info: Getting all links {"timestamp":"2018-12-12 15:28:15"}
+info: /link ssss ssssss {"timestamp":"2018-12-12 15:28:21"}
+info: Setting ssss to ssssss {"timestamp":"2018-12-12 15:28:21"}
+info: getting list of links {"timestamp":"2018-12-12 15:28:21"}
+info: Getting all links {"timestamp":"2018-12-12 15:28:21"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:28:22"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:32:18"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:33:33"}
+info: admin /admin {"timestamp":"2018-12-12 15:33:38"}
+info: getting list of links {"timestamp":"2018-12-12 15:33:38"}
+info: Getting all links {"timestamp":"2018-12-12 15:33:38"}
+info: delete ssss {"timestamp":"2018-12-12 15:33:41"}
+info: Deleting ssss {"timestamp":"2018-12-12 15:33:41"}
+info: Getting ssss {"timestamp":"2018-12-12 15:33:41"}
+info: Returning ssssss {"timestamp":"2018-12-12 15:33:41"}
+info: getting list of links {"timestamp":"2018-12-12 15:33:41"}
+info: Getting all links {"timestamp":"2018-12-12 15:33:41"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:33:42"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:33:47"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:33:55"}
+info: admin /admin {"timestamp":"2018-12-12 15:33:57"}
+info: getting list of links {"timestamp":"2018-12-12 15:33:57"}
+info: Getting all links {"timestamp":"2018-12-12 15:33:57"}
+info: delete tctest {"timestamp":"2018-12-12 15:34:01"}
+info: Deleting tctest {"timestamp":"2018-12-12 15:34:01"}
+info: Getting tctest {"timestamp":"2018-12-12 15:34:01"}
+info: Returning tctest {"timestamp":"2018-12-12 15:34:01"}
+info: getting list of links {"timestamp":"2018-12-12 15:34:01"}
+info: Getting all links {"timestamp":"2018-12-12 15:34:01"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:34:02"}
+info: admin /admin {"timestamp":"2018-12-12 15:34:23"}
+info: getting list of links {"timestamp":"2018-12-12 15:34:24"}
+info: Getting all links {"timestamp":"2018-12-12 15:34:24"}
+info: /link tctest tctest {"timestamp":"2018-12-12 15:34:26"}
+info: Setting tctest to tctest {"timestamp":"2018-12-12 15:34:26"}
+info: getting list of links {"timestamp":"2018-12-12 15:34:26"}
+info: Getting all links {"timestamp":"2018-12-12 15:34:26"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:34:28"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:34:56"}
+info: admin /admin {"timestamp":"2018-12-12 15:34:57"}
+info: getting list of links {"timestamp":"2018-12-12 15:34:57"}
+info: Getting all links {"timestamp":"2018-12-12 15:34:57"}
+info: delete tctest {"timestamp":"2018-12-12 15:35:01"}
+info: Deleting tctest {"timestamp":"2018-12-12 15:35:01"}
+info: Getting tctest {"timestamp":"2018-12-12 15:35:01"}
+info: Returning tctest {"timestamp":"2018-12-12 15:35:01"}
+info: getting list of links {"timestamp":"2018-12-12 15:35:01"}
+info: Getting all links {"timestamp":"2018-12-12 15:35:01"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:35:03"}
+info: admin /admin {"timestamp":"2018-12-12 15:35:16"}
+info: getting list of links {"timestamp":"2018-12-12 15:35:17"}
+info: Getting all links {"timestamp":"2018-12-12 15:35:18"}
+info: /link tctest tctest {"timestamp":"2018-12-12 15:35:19"}
+info: Setting tctest to tctest {"timestamp":"2018-12-12 15:35:19"}
+info: getting list of links {"timestamp":"2018-12-12 15:35:19"}
+info: Getting all links {"timestamp":"2018-12-12 15:35:19"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:35:20"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:36:08"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:36:28"}
+info: admin /admin {"timestamp":"2018-12-12 15:36:30"}
+info: getting list of links {"timestamp":"2018-12-12 15:36:31"}
+info: Getting all links {"timestamp":"2018-12-12 15:36:31"}
+info: delete tctest {"timestamp":"2018-12-12 15:36:34"}
+info: Deleting tctest {"timestamp":"2018-12-12 15:36:34"}
+info: Getting tctest {"timestamp":"2018-12-12 15:36:34"}
+info: Returning tctest {"timestamp":"2018-12-12 15:36:34"}
+info: getting list of links {"timestamp":"2018-12-12 15:36:34"}
+info: Getting all links {"timestamp":"2018-12-12 15:36:34"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:36:35"}
+info: admin /admin {"timestamp":"2018-12-12 15:36:49"}
+info: getting list of links {"timestamp":"2018-12-12 15:36:50"}
+info: Getting all links {"timestamp":"2018-12-12 15:36:50"}
+info: /link tctest tctest {"timestamp":"2018-12-12 15:36:51"}
+info: Setting tctest to tctest {"timestamp":"2018-12-12 15:36:51"}
+info: getting list of links {"timestamp":"2018-12-12 15:36:51"}
+info: Getting all links {"timestamp":"2018-12-12 15:36:51"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:36:54"}
+info: admin /admin {"timestamp":"2018-12-12 15:37:01"}
+info: getting list of links {"timestamp":"2018-12-12 15:37:02"}
+info: Getting all links {"timestamp":"2018-12-12 15:37:02"}
+info: admin /admin {"timestamp":"2018-12-12 15:53:34"}
+info: getting list of links {"timestamp":"2018-12-12 15:53:34"}
+info: Getting all links {"timestamp":"2018-12-12 15:53:34"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:55:15"}
+info: admin /admin {"timestamp":"2018-12-12 15:55:17"}
+info: getting list of links {"timestamp":"2018-12-12 15:55:17"}
+info: Getting all links {"timestamp":"2018-12-12 15:55:17"}
+info: /link tctest tctesteeee {"timestamp":"2018-12-12 15:55:27"}
+info: Setting tctest to tctesteeee {"timestamp":"2018-12-12 15:55:27"}
+info: getting list of links {"timestamp":"2018-12-12 15:55:27"}
+info: Getting all links {"timestamp":"2018-12-12 15:55:27"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:55:28"}
+info: delete tctest {"timestamp":"2018-12-12 15:55:30"}
+info: Deleting tctest {"timestamp":"2018-12-12 15:55:30"}
+info: Getting tctest {"timestamp":"2018-12-12 15:55:30"}
+info: Returning tctesteeee {"timestamp":"2018-12-12 15:55:30"}
+info: getting list of links {"timestamp":"2018-12-12 15:55:31"}
+info: Getting all links {"timestamp":"2018-12-12 15:55:31"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:55:32"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:55:41"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:57:12"}
+info: admin /admin {"timestamp":"2018-12-12 15:57:13"}
+info: getting list of links {"timestamp":"2018-12-12 15:57:14"}
+info: Getting all links {"timestamp":"2018-12-12 15:57:14"}
+info: /link dasdsa sdadsa {"timestamp":"2018-12-12 15:57:17"}
+info: Setting dasdsa to sdadsa {"timestamp":"2018-12-12 15:57:17"}
+info: getting list of links {"timestamp":"2018-12-12 15:57:17"}
+info: Getting all links {"timestamp":"2018-12-12 15:57:17"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:57:18"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:57:58"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:58:11"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:58:14"}
+info: admin /admin {"timestamp":"2018-12-12 15:58:16"}
+info: getting list of links {"timestamp":"2018-12-12 15:58:16"}
+info: Getting all links {"timestamp":"2018-12-12 15:58:16"}
+info: delete dasdsa {"timestamp":"2018-12-12 15:58:29"}
+info: Deleting dasdsa {"timestamp":"2018-12-12 15:58:29"}
+info: Getting dasdsa {"timestamp":"2018-12-12 15:58:29"}
+info: Returning sdadsa {"timestamp":"2018-12-12 15:58:29"}
+info: getting list of links {"timestamp":"2018-12-12 15:58:29"}
+info: Getting all links {"timestamp":"2018-12-12 15:58:29"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:58:30"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:58:44"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 15:59:44"}
+info: admin /admin {"timestamp":"2018-12-12 15:59:46"}
+info: getting list of links {"timestamp":"2018-12-12 15:59:46"}
+info: Getting all links {"timestamp":"2018-12-12 15:59:46"}
+info: admin /admin {"timestamp":"2018-12-12 16:00:02"}
+info: getting list of links {"timestamp":"2018-12-12 16:00:03"}
+info: Getting all links {"timestamp":"2018-12-12 16:00:04"}
+info: /link tctest tctest {"timestamp":"2018-12-12 16:00:05"}
+info: Setting tctest to tctest {"timestamp":"2018-12-12 16:00:05"}
+info: getting list of links {"timestamp":"2018-12-12 16:00:05"}
+info: Getting all links {"timestamp":"2018-12-12 16:00:05"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 16:00:06"}
+info: admin /admin {"timestamp":"2018-12-12 16:00:29"}
+info: getting list of links {"timestamp":"2018-12-12 16:00:29"}
+info: Getting all links {"timestamp":"2018-12-12 16:00:29"}
+info: delete tctest {"timestamp":"2018-12-12 16:00:38"}
+info: Deleting tctest {"timestamp":"2018-12-12 16:00:38"}
+info: Getting tctest {"timestamp":"2018-12-12 16:00:38"}
+info: Returning tctest {"timestamp":"2018-12-12 16:00:38"}
+info: getting list of links {"timestamp":"2018-12-12 16:00:38"}
+info: Getting all links {"timestamp":"2018-12-12 16:00:38"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 16:00:39"}
+info: admin /admin {"timestamp":"2018-12-12 16:01:02"}
+info: getting list of links {"timestamp":"2018-12-12 16:01:02"}
+info: Getting all links {"timestamp":"2018-12-12 16:01:02"}
+info: /link asd dsa {"timestamp":"2018-12-12 16:01:06"}
+info: Setting asd to dsa {"timestamp":"2018-12-12 16:01:06"}
+info: getting list of links {"timestamp":"2018-12-12 16:01:06"}
+info: Getting all links {"timestamp":"2018-12-12 16:01:06"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 16:01:07"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 16:01:46"}
+info: delete asd {"timestamp":"2018-12-12 16:01:48"}
+info: Deleting asd {"timestamp":"2018-12-12 16:01:48"}
+info: Getting asd {"timestamp":"2018-12-12 16:01:48"}
+info: Returning dsa {"timestamp":"2018-12-12 16:01:48"}
+info: getting list of links {"timestamp":"2018-12-12 16:01:48"}
+info: Getting all links {"timestamp":"2018-12-12 16:01:48"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 16:01:49"}
+info: admin /admin {"timestamp":"2018-12-12 16:02:04"}
+info: getting list of links {"timestamp":"2018-12-12 16:02:05"}
+info: Getting all links {"timestamp":"2018-12-12 16:02:05"}
+info: /link tctest tctest {"timestamp":"2018-12-12 16:02:06"}
+info: Setting tctest to tctest {"timestamp":"2018-12-12 16:02:06"}
+info: getting list of links {"timestamp":"2018-12-12 16:02:06"}
+info: Getting all links {"timestamp":"2018-12-12 16:02:06"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 16:02:08"}
+info: delete tctest {"timestamp":"2018-12-12 16:02:09"}
+info: Deleting tctest {"timestamp":"2018-12-12 16:02:09"}
+info: Getting tctest {"timestamp":"2018-12-12 16:02:09"}
+info: Returning tctest {"timestamp":"2018-12-12 16:02:09"}
+info: getting list of links {"timestamp":"2018-12-12 16:02:09"}
+info: Getting all links {"timestamp":"2018-12-12 16:02:09"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 16:02:11"}
+info: admin /admin {"timestamp":"2018-12-12 16:02:12"}
+info: getting list of links {"timestamp":"2018-12-12 16:02:13"}
+info: Getting all links {"timestamp":"2018-12-12 16:02:13"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 16:02:20"}
+info: /link gaf sasasadsa {"timestamp":"2018-12-12 16:05:37"}
+info: Setting gaf to sasasadsa {"timestamp":"2018-12-12 16:05:37"}
+info: getting list of links {"timestamp":"2018-12-12 16:05:37"}
+info: Getting all links {"timestamp":"2018-12-12 16:05:37"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 16:05:37"}
+info: admin /admin {"timestamp":"2018-12-12 16:05:39"}
+info: getting list of links {"timestamp":"2018-12-12 16:05:40"}
+info: Getting all links {"timestamp":"2018-12-12 16:05:40"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-12 16:07:07"}

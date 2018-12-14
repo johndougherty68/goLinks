@@ -1,16 +1,41 @@
 $(document).ready(function () {
 
     //click of edit icon for goLink
+    $("body").on("mouseover", ".tooltippable", function (event) {
+        $(this).tooltip('show');
+    })
+
     $("body").on("click", ".editable", function (event) {
         hideAll();
         var id = event.target.attributes[0].value;
         $("#hidden-" + id).show();
     })
 
+    //exit of newGoLink input box
+    $("body").on("blur","#newGoLink", function(){
+        var goLink = $("#newGoLink").val();
+        if(!goLink) return;
+        $.ajax({ url: "/admin/" + goLink, method: "GET" })
+        .then(function(response){
+            console.log(response);
+            if(response.result=='noexist'){
+                //goLink does not exist
+            }
+            else{
+                //goLink exists
+                bootbox.alert("<i class='fas fa-exclamation-triangle fa-3x'></i><p><p>A GoLink already exists for '" + goLink + "'.<p> Please update the item in the GoLinks list or choose a different word.", function(){
+                    clearInputs();
+                    $("#newGoLink").focus();
+                });
+            }
+        })    
+    })
+
     //click of new goLink button
     $("body").on("click", "#btnAddNew", function () {
         hideAll();
         $("#newGoLinkRow").show();
+        $("#newGoLink").focus();
     })
 
     //click of save button of add new goLink
@@ -19,6 +44,8 @@ $(document).ready(function () {
         var newUrl = $("#newURL").val();
         var newGoLink = $("#newGoLink").val();
         addLink(newGoLink, newUrl);
+        showStatus("GoLink Added",5);
+        clearInputs();
     })
 
     //click of cancel button of add new goLink
@@ -42,15 +69,27 @@ $(document).ready(function () {
 
     //click of delete icon for goLink
     $("body").on("click", ".deleteable", function (event) {
-        var id = event.target.attributes[0].value.split('-')[1];
-        var goLink = $("#goLink-" + id).text();
+        var goLink = event.target.attributes[0].value.split('-')[1];
+        //var goLink = $("#goLink-" + id).text();
         bootbox.confirm("Are you sure you want to delete GoLink '" + goLink + "'?", function(result){
             if(result===true){
-            deleteLink(goLink);
+                deleteLink(goLink);
+                showStatus("GoLink Deleted",5);
             }
         });
     })
 
+    function clearInputs(){
+        $("#newGoLink").val("");
+        $("#newURL").val("");
+    }
+
+    function showStatus(message, seconds){
+        $("#statusArea").text(message);
+        setTimeout(function(){
+            $("#statusArea").text("");    
+        }, seconds*1000);
+    }
 
     function updateLink(goLink, mappedURL) {
         var data = { 'url': mappedURL };
@@ -65,6 +104,7 @@ $(document).ready(function () {
     }
 
     function addLink(goLink, mappedURL) {
+        //need to check if link exists and raise error if so
         updateLink(goLink, mappedURL);
     }
 
@@ -93,17 +133,18 @@ $(document).ready(function () {
                 for (var i = 0; i < goLinks.length; i++) {
 
                     var listItem = $("<div class='row'>");
+                    var linkName = goLinks[i].golink;
                     listItem.append(
-                        $("<div class='col-md-1'><span id='" + i + "' data-goLink='" + goLinks[i].golink + "' class='fas fa-edit editable'></div>"),
-                        $("<div id='goLink-" + i + "' class='col-md-3'>").text(goLinks[i].golink),
-                        $("<div id='url-" + i + "' class='col-md-7'>").html("<a id='a-" + i + "' target='_blank' href='" + goLinks[i].url + "'>" + goLinks[i].url + "</a>"),
-                        $("<div class='col-md-1'><span id=delete-" + i + " data-goLink='" + goLinks[i].golink + "' class='fas fa-trash deleteable'></div>"),
+                        $("<div class='col-md-1'><span id='" + i + "' data-goLink='" + linkName + "' data-toggle='tooltip' data-placement='top' title='Click to edit' class='fas fa-edit editable tooltippable'></div>"),
+                        $("<div id='goLink-" + i + "' class='col-md-3'>").text(linkName),
+                        $("<div id='url-" + i + "' class='col-md-7'>").html("<a id='a-" + i + "' data-toggle='tooltip'class='tooltippable' data-placement='top' title='Click to follow this link'  target='_blank' href='" + goLinks[i].url + "'>" + goLinks[i].url + "</a>"),
+                        $("<div class='col-md-1'><span id=delete-" + linkName + " data-goLink='" + linkName + "' data-toggle='tooltip' data-placement='top' title='Click to delete'  class='fas fa-trash deleteable tooltippable'></div>"),
                     );
 
                     goLinkList.append(listItem);
 
                     var editItem = $("<div id='hidden-" + i + "' class='row hideable edit-row'>");
-                    var inputHTML = "<input data-goLink='" + goLinks[i].goLink + "' class='form-control' id='input-" + i + "' value='" + goLinks[i].url + "' required>";
+                    var inputHTML = "<input data-goLink='" + linkName + "' class='form-control' id='input-" + i + "' value='" + goLinks[i].url + "' required>";
                     inputHTML += "<div class='edit-button-row'>";
                     inputHTML += "<button id='btnUpdate-" + i + "' class='btn btn-primary update-button'>Save</button>";
                     inputHTML += " <div id='btnCancelUpdate-" + i + "' class='btn btn-default cancel-update-button'>Cancel</div>";
@@ -119,9 +160,6 @@ $(document).ready(function () {
                 hideAll();
             });
     }
-
-
-
 
     // Run Queries!
     // ==========================================

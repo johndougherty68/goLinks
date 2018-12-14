@@ -1,0 +1,3 @@
+C:\projects\goURL\obj\Debug\goURL.njsprojResolveAssemblyReference.cache
+C:\projects\goURL\obj\Debug\goURL.njsproj.CoreCompileInputs.cache
+C:\projects\goURL\bin\Microsoft.NodejsTools.WebRole.dll

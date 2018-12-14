@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <link rel="stylesheet" href="/assets/style.css"></script>
   <script src="https://code.jquery.com/jquery.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.4.0/bootbox.min.js"></script>
   <style>
@@ -22,11 +23,11 @@
   <div class="container">
 
     <div class="jumbotron">
-      <h1 class="text-center"><span class="fas fa-bolt"></span> GoLinks!</h1>
+      <h1 id="GoLinksHeader" class="text-center"><span id="GoLinksTitle" class="fas fa-bolt"></span> GoLinks!</h1>
       <br>
 
       <div class="text-center">
-        <button id="btnAddNew" class="btn btn-lg btn-primary"><span class="fas fa-plus-square"></span> New GoLink</button>
+        <button id="btnAddNew" class="btn btn-lg btn-primary tooltippable" data-toggle='tooltip' data-placement='top' title='Click to add new GoLink'><span class="fas fa-plus-square"></span> New GoLink</button>
       </div>
     </div>
     <div id="newGoLinkRow" class="row newGoLink hideable">
@@ -53,6 +54,11 @@
         </div>
       </div>
       <div class="col-lg-4"></div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <div id="statusArea"></div>
+      </div>
     </div>
     <div class="row">
       <div class="col-lg-12">

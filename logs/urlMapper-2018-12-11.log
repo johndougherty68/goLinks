@@ -1,0 +1,209 @@
+info: Setting gaf to http://www.gaf.com {"timestamp":"2018-12-11 11:15:01"}
+info: Getting gaf {"timestamp":"2018-12-11 11:15:01"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-11 11:15:01"}
+info: Setting gafNew to http://www.gaf.com {"timestamp":"2018-12-11 11:15:01"}
+info: Getting gafNew {"timestamp":"2018-12-11 11:15:01"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-11 11:15:01"}
+info: Setting gafNew to http://www.cnn.com {"timestamp":"2018-12-11 11:15:01"}
+info: Getting gafNew {"timestamp":"2018-12-11 11:15:01"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-11 11:15:01"}
+info: Getting gaf {"timestamp":"2018-12-11 11:15:01"}
+info: Returning http://www.gaf.com {"timestamp":"2018-12-11 11:15:01"}
+info: Checking existence of gaf {"timestamp":"2018-12-11 11:15:01"}
+info: Checking existence of gafDoesNotExist {"timestamp":"2018-12-11 11:15:01"}
+info: Setting gafToBeDeleted to http://www.xkcd.com {"timestamp":"2018-12-11 11:15:01"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-11 11:15:01"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-11 11:15:01"}
+info: Deleting gafToBeDeleted {"timestamp":"2018-12-11 11:15:01"}
+info: Getting gaftobedeleted {"timestamp":"2018-12-11 11:15:01"}
+info: Returning http://www.xkcd.com {"timestamp":"2018-12-11 11:15:01"}
+info: Getting gafToBeDeleted {"timestamp":"2018-12-11 11:15:01"}
+info: Returning undefined {"timestamp":"2018-12-11 11:15:01"}
+info: Getting all links {"timestamp":"2018-12-11 11:15:01"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 11:15:22"}
+info: admin /admin {"timestamp":"2018-12-11 12:23:52"}
+info: getting list of links {"timestamp":"2018-12-11 12:23:53"}
+info: Getting all links {"timestamp":"2018-12-11 12:23:53"}
+info: /link foo http://www.cnn.com {"timestamp":"2018-12-11 12:24:03"}
+info: Setting foo to http://www.cnn.com {"timestamp":"2018-12-11 12:24:03"}
+info: getting list of links {"timestamp":"2018-12-11 12:24:03"}
+info: Getting all links {"timestamp":"2018-12-11 12:24:03"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:24:04"}
+info: get /foo {"timestamp":"2018-12-11 12:24:11"}
+info: Getting foo {"timestamp":"2018-12-11 12:24:11"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-11 12:24:11"}
+info: /link foo http://www.amazon.com {"timestamp":"2018-12-11 12:25:35"}
+info: Setting foo to http://www.amazon.com {"timestamp":"2018-12-11 12:25:35"}
+info: getting list of links {"timestamp":"2018-12-11 12:25:35"}
+info: Getting all links {"timestamp":"2018-12-11 12:25:35"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:25:36"}
+info: get /foo {"timestamp":"2018-12-11 12:25:44"}
+info: Getting foo {"timestamp":"2018-12-11 12:25:44"}
+info: Returning http://www.amazon.com {"timestamp":"2018-12-11 12:25:44"}
+info: delete foo {"timestamp":"2018-12-11 12:25:58"}
+info: Deleting foo {"timestamp":"2018-12-11 12:25:58"}
+info: Getting foo {"timestamp":"2018-12-11 12:25:58"}
+info: Returning http://www.amazon.com {"timestamp":"2018-12-11 12:25:58"}
+info: getting list of links {"timestamp":"2018-12-11 12:25:58"}
+info: Getting all links {"timestamp":"2018-12-11 12:25:58"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:25:59"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:30:21"}
+info: admin /admin {"timestamp":"2018-12-11 12:30:25"}
+info: getting list of links {"timestamp":"2018-12-11 12:30:25"}
+info: Getting all links {"timestamp":"2018-12-11 12:30:25"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:32:24"}
+info: admin /admin {"timestamp":"2018-12-11 12:32:27"}
+info: admin /admin {"timestamp":"2018-12-11 12:34:11"}
+info: admin /admin {"timestamp":"2018-12-11 12:36:00"}
+info: admin /admin {"timestamp":"2018-12-11 12:36:35"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:38:24"}
+info: admin /admin {"timestamp":"2018-12-11 12:38:26"}
+info: getting list of links {"timestamp":"2018-12-11 12:38:27"}
+info: Getting all links {"timestamp":"2018-12-11 12:38:27"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:40:34"}
+info: admin /admin {"timestamp":"2018-12-11 12:40:36"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:41:18"}
+info: admin /admin {"timestamp":"2018-12-11 12:41:19"}
+info: getting list of links {"timestamp":"2018-12-11 12:41:20"}
+info: Getting all links {"timestamp":"2018-12-11 12:41:20"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:41:30"}
+info: admin /admin {"timestamp":"2018-12-11 12:41:30"}
+info: getting list of links {"timestamp":"2018-12-11 12:41:31"}
+info: Getting all links {"timestamp":"2018-12-11 12:41:31"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:42:05"}
+info: admin /admin {"timestamp":"2018-12-11 12:42:06"}
+info: getting list of links {"timestamp":"2018-12-11 12:42:07"}
+info: Getting all links {"timestamp":"2018-12-11 12:42:07"}
+info: admin /admin {"timestamp":"2018-12-11 12:44:58"}
+info: getting list of links {"timestamp":"2018-12-11 12:44:59"}
+info: Getting all links {"timestamp":"2018-12-11 12:44:59"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:45:21"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:45:40"}
+info: admin /admin {"timestamp":"2018-12-11 12:45:41"}
+info: getting list of links {"timestamp":"2018-12-11 12:45:42"}
+info: Getting all links {"timestamp":"2018-12-11 12:45:42"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:47:04"}
+info: admin /admin {"timestamp":"2018-12-11 12:47:07"}
+info: getting list of links {"timestamp":"2018-12-11 12:47:07"}
+info: Getting all links {"timestamp":"2018-12-11 12:47:07"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:48:53"}
+info: admin /admin {"timestamp":"2018-12-11 12:48:54"}
+info: getting list of links {"timestamp":"2018-12-11 12:48:55"}
+info: Getting all links {"timestamp":"2018-12-11 12:48:55"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:49:50"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:50:17"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:50:37"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:50:45"}
+info: admin /admin {"timestamp":"2018-12-11 12:50:46"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:50:58"}
+info: admin /admin {"timestamp":"2018-12-11 12:50:58"}
+info: getting list of links {"timestamp":"2018-12-11 12:50:59"}
+info: Getting all links {"timestamp":"2018-12-11 12:50:59"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:51:11"}
+info: admin /admin {"timestamp":"2018-12-11 12:51:12"}
+info: getting list of links {"timestamp":"2018-12-11 12:51:12"}
+info: Getting all links {"timestamp":"2018-12-11 12:51:12"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:56:04"}
+info: admin /admin {"timestamp":"2018-12-11 12:56:06"}
+info: getting list of links {"timestamp":"2018-12-11 12:56:06"}
+info: Getting all links {"timestamp":"2018-12-11 12:56:06"}
+info: admin /admin {"timestamp":"2018-12-11 12:56:10"}
+info: getting list of links {"timestamp":"2018-12-11 12:56:11"}
+info: Getting all links {"timestamp":"2018-12-11 12:56:11"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:56:21"}
+info: admin /admin {"timestamp":"2018-12-11 12:56:22"}
+info: getting list of links {"timestamp":"2018-12-11 12:56:23"}
+info: Getting all links {"timestamp":"2018-12-11 12:56:23"}
+info: admin /admin {"timestamp":"2018-12-11 12:58:25"}
+info: getting list of links {"timestamp":"2018-12-11 12:58:26"}
+info: Getting all links {"timestamp":"2018-12-11 12:58:26"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:58:35"}
+info: admin /admin {"timestamp":"2018-12-11 12:58:37"}
+info: getting list of links {"timestamp":"2018-12-11 12:58:37"}
+info: Getting all links {"timestamp":"2018-12-11 12:58:37"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 12:59:54"}
+info: admin /admin {"timestamp":"2018-12-11 12:59:56"}
+info: getting list of links {"timestamp":"2018-12-11 12:59:57"}
+info: Getting all links {"timestamp":"2018-12-11 12:59:57"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:00:23"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:00:26"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:00:28"}
+info: admin /admin {"timestamp":"2018-12-11 13:00:29"}
+info: getting list of links {"timestamp":"2018-12-11 13:00:30"}
+info: Getting all links {"timestamp":"2018-12-11 13:00:30"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:01:28"}
+info: admin /admin {"timestamp":"2018-12-11 13:01:30"}
+info: getting list of links {"timestamp":"2018-12-11 13:01:30"}
+info: Getting all links {"timestamp":"2018-12-11 13:01:30"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:01:45"}
+info: admin /admin {"timestamp":"2018-12-11 13:01:47"}
+info: getting list of links {"timestamp":"2018-12-11 13:01:47"}
+info: Getting all links {"timestamp":"2018-12-11 13:01:47"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:02:44"}
+info: admin /admin {"timestamp":"2018-12-11 13:02:46"}
+info: getting list of links {"timestamp":"2018-12-11 13:02:46"}
+info: Getting all links {"timestamp":"2018-12-11 13:02:46"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:03:17"}
+info: admin /admin {"timestamp":"2018-12-11 13:03:19"}
+info: getting list of links {"timestamp":"2018-12-11 13:03:20"}
+info: Getting all links {"timestamp":"2018-12-11 13:03:20"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:03:31"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:03:33"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:03:52"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:04:11"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:04:27"}
+info: admin /admin {"timestamp":"2018-12-11 13:04:31"}
+info: getting list of links {"timestamp":"2018-12-11 13:04:31"}
+info: Getting all links {"timestamp":"2018-12-11 13:04:31"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:05:50"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:05:58"}
+info: admin /admin {"timestamp":"2018-12-11 13:05:59"}
+info: getting list of links {"timestamp":"2018-12-11 13:05:59"}
+info: Getting all links {"timestamp":"2018-12-11 13:05:59"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:06:31"}
+info: admin /admin {"timestamp":"2018-12-11 13:06:33"}
+info: getting list of links {"timestamp":"2018-12-11 13:06:33"}
+info: Getting all links {"timestamp":"2018-12-11 13:06:33"}
+info: admin /admin {"timestamp":"2018-12-11 13:07:34"}
+info: getting list of links {"timestamp":"2018-12-11 13:07:34"}
+info: Getting all links {"timestamp":"2018-12-11 13:07:34"}
+info: /link ffff http://www.cnn.com {"timestamp":"2018-12-11 13:08:12"}
+info: Setting ffff to http://www.cnn.com {"timestamp":"2018-12-11 13:08:12"}
+info: getting list of links {"timestamp":"2018-12-11 13:08:12"}
+info: Getting all links {"timestamp":"2018-12-11 13:08:12"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 13:08:12"}
+info: get /fff {"timestamp":"2018-12-11 13:08:25"}
+info: Getting fff {"timestamp":"2018-12-11 13:08:25"}
+info: Returning undefined {"timestamp":"2018-12-11 13:08:25"}
+info: get /ffff {"timestamp":"2018-12-11 13:08:33"}
+info: Getting ffff {"timestamp":"2018-12-11 13:08:33"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-11 13:08:33"}
+info: get /ffff {"timestamp":"2018-12-11 13:55:51"}
+info: Getting ffff {"timestamp":"2018-12-11 13:55:51"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-11 13:55:51"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 14:20:32"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 14:21:46"}
+info: get /ffff {"timestamp":"2018-12-11 14:22:08"}
+info: Getting ffff {"timestamp":"2018-12-11 14:22:08"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-11 14:22:08"}
+info: get /dsa {"timestamp":"2018-12-11 14:22:16"}
+info: Getting dsa {"timestamp":"2018-12-11 14:22:16"}
+info: Returning undefined {"timestamp":"2018-12-11 14:22:16"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 14:23:38"}
+info: get /dsdas {"timestamp":"2018-12-11 14:23:47"}
+info: Getting dsdas {"timestamp":"2018-12-11 14:23:47"}
+info: Returning undefined {"timestamp":"2018-12-11 14:23:47"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 14:24:06"}
+info: get /sdadsaadsads {"timestamp":"2018-12-11 14:24:12"}
+info: Getting sdadsaadsads {"timestamp":"2018-12-11 14:24:12"}
+info: Returning undefined {"timestamp":"2018-12-11 14:24:12"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-11 14:24:37"}
+info: get /sdaadsasd {"timestamp":"2018-12-11 14:24:43"}
+info: Getting sdaadsasd {"timestamp":"2018-12-11 14:24:43"}
+info: Returning undefined {"timestamp":"2018-12-11 14:24:43"}
+info: get /sdaadsasd {"timestamp":"2018-12-11 14:25:14"}
+info: Getting sdaadsasd {"timestamp":"2018-12-11 14:25:14"}
+info: Returning undefined {"timestamp":"2018-12-11 14:25:14"}
+info: get /sdaadsasd {"timestamp":"2018-12-11 14:25:24"}
+info: Getting sdaadsasd {"timestamp":"2018-12-11 14:25:24"}
+info: Returning undefined {"timestamp":"2018-12-11 14:25:24"}

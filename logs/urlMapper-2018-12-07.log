@@ -1,0 +1,5 @@
+info: urlMapper app listening on port 1233 {"timestamp":"2018-12-07 09:42:37"}
+info: get / {"timestamp":"2018-12-07 09:42:37"}
+info: admin /admin {"timestamp":"2018-12-07 09:42:53"}
+info: getting list of links {"timestamp":"2018-12-07 09:42:54"}
+info: Getting all links {"timestamp":"2018-12-07 09:42:54"}

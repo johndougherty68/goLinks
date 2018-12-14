@@ -2,6 +2,11 @@
     margin-top:10px;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+#statusArea{
+    min-height: 24px;
+    text-align: center;
 }
 .newGoLink{
     margin-bottom: 10px;
