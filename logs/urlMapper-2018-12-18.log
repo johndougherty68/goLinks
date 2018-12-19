@@ -1,0 +1,28 @@
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-18 14:32:35"}
+info: admin /admin {"timestamp":"2018-12-18 14:32:40"}
+info: getting list of links {"timestamp":"2018-12-18 14:32:41"}
+info: Getting all links {"timestamp":"2018-12-18 14:32:41"}
+info: get benefits {"timestamp":"2018-12-18 14:32:48"}
+info: Getting benefits {"timestamp":"2018-12-18 14:32:48"}
+info: Returning undefined {"timestamp":"2018-12-18 14:32:48"}
+info: /link benefits http://www.cnn.com {"timestamp":"2018-12-18 14:32:53"}
+info: Setting benefits to http://www.cnn.com {"timestamp":"2018-12-18 14:32:53"}
+info: getting list of links {"timestamp":"2018-12-18 14:32:53"}
+info: Getting all links {"timestamp":"2018-12-18 14:32:53"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-18 14:32:54"}
+info: get /benefits {"timestamp":"2018-12-18 14:33:13"}
+info: Getting benefits {"timestamp":"2018-12-18 14:33:13"}
+info: Returning http://www.cnn.com {"timestamp":"2018-12-18 14:33:13"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-18 15:36:56"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-18 15:39:41"}
+info: admin /admin {"timestamp":"2018-12-18 15:40:24"}
+info: getting list of links {"timestamp":"2018-12-18 15:40:25"}
+info: Getting all links {"timestamp":"2018-12-18 15:40:25"}
+info: admin /admin {"timestamp":"2018-12-18 15:40:41"}
+info: getting list of links {"timestamp":"2018-12-18 15:40:41"}
+info: Getting all links {"timestamp":"2018-12-18 15:40:41"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-18 15:41:27"}
+info: admin /admin {"timestamp":"2018-12-18 15:41:30"}
+info: getting list of links {"timestamp":"2018-12-18 15:41:30"}
+info: Getting all links {"timestamp":"2018-12-18 15:41:30"}
+info: urlMapper app listening on port 80 {"timestamp":"2018-12-18 15:45:26"}

@@ -1,3 +1,5 @@
+'use strict'
+
 const express = require ('express');
 const morgan = require('morgan');
 const logger = require('./logger');
@@ -7,6 +9,26 @@ const path = require("path");
 const PORT = process.env.PORT || 80;
 
 const app = express();
+
+app.use(function (req, res, next) {
+    var nodeSSPI = require('node-sspi')
+    var nodeSSPIObj = new nodeSSPI({
+        retrieveGroups: true
+    })
+    nodeSSPIObj.authenticate(req, res, function (err) {
+        res.finished || next()
+    })
+})
+
+app.use(function (req, res, next) {
+    var out =
+        req.connection.user +
+        ' (' +
+        req.connection.userSid +
+        ') ';
+    res.set('GoLinkAdmin','true');
+    next();
+})
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
