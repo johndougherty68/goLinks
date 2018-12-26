@@ -21,6 +21,7 @@ app.use(function (req, res, next) {
 })
 
 app.use(function (req, res, next) {
+    logger.log(req.method + " " + req.url, req.connection.user);
     var out =
         req.connection.user +
         ' (' +
@@ -46,14 +47,14 @@ app.get('/favicon.ico', function(req, res){
 
 //get the whole list of links
 app.get('/links', function(req, res){
-    logger.info("getting list of links");
+    logger.log("getting list of links");
     const links = urlMapper.all();
     res.json(links);
 })
 
 //get the admin page
 app.get('/admin', function (req, res) {
-    logger.info("admin " + req.url);
+    logger.log("admin " + req.url);
     const link = req.params.link;
     res.sendFile(path.join(__dirname, "./public/links.html"));
 })
@@ -69,7 +70,7 @@ app.get('/assets/:item',function(req, res){
 app.get('/admin/:link',function(req, res){
     var link = req.params.link;
     console.log("link " + link);
-    logger.info("get " + link);
+    logger.log("get " + link);
     const mappedURL = urlMapper.get(link);
     if(mappedURL){
         res.json({'result':mappedURL});
@@ -82,14 +83,14 @@ app.get('/admin/:link',function(req, res){
 //delete the given goLink
 app.delete('/:link', function(req, res){
     var link = req.params.link;
-    logger.info("delete " + link );
+    logger.log("delete " + link, req.connection.user);
     urlMapper.delete(link);
     res.json(req.body);
 })
 
 //update or create goLink
 app.post('/:link', function(req, res){
-    logger.info("/link " + req.params.link + " " + req.body.url);
+    logger.log("/link " + req.params.link + " " + req.body.url);
     urlMapper.set(req.params.link, req.body.url);
     res.json(req.body);
 })
@@ -101,7 +102,8 @@ app.get('/404', function(req, res){
 
 //get the url for the given goLink 
 app.get('/:link?', function (req, res) {
-    logger.info("get " + req.url);
+    logger.log("get " + req.url, req.connection.user);
+    console.log(req.connection.user);
     const link = req.params.link;
 //    if(urlMapper.ignoreItems.includes(link.toLowerCase()))
 
@@ -115,12 +117,11 @@ app.get('/:link?', function (req, res) {
         }
         else
         {
-            console.log("404");
             res.redirect("/404?goLink=" + link);
         }}
 })
 
 
 app.listen(PORT, function(){
-    logger.info('urlMapper app listening on port ' + PORT);
+    logger.log('urlMapper app listening on port ' + PORT);
 });

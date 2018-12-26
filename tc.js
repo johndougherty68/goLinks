@@ -1,8 +1,12 @@
 import { Selector } from 'testcafe'; // first import testcafe selectors
 
 fixture `Getting Started`// declare the fixture
-    .page `http://localhost/admin`;  // specify the start page
-
+    .page `http://localhost/admin`  // specify the start page
+    .httpAuth({
+        username: 'jdougherty',
+        password: '3Ndym10n',
+        domain: 'TCPHQ'
+    });
 
 //then create a test and place your code there
 test('AddAndDelete', async t => {

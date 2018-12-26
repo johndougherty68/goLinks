@@ -37,9 +37,18 @@ const logger = createLogger({
     exitOnError: false, // do not exit on handled exceptions
 });
 
-logger.stream = {
-    write: function(message, encoding){
+logger.log = function(message, user){
+    var logged = message;
+    if(!user) {
         logger.info(message);
+    }
+    else{
+        logger.info(user + " " + message);
+    }
+}
+
+logger.stream = {
+    write: function(message, user, encoding){
     }
 };
 module.exports = logger
