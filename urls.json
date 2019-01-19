@@ -1,6 +1,13 @@
 {
-  "gaf": "http://www.gaf.com",
-  "gafnew": "http://www.cnn.com",
-  "rrrr": "eeee",
-  "benefits": "http://www.cnn.com"
+  "workday": "https://www.myworkday.com/childrensplace/d/home.htmld",
+  "kronos": "https://mykronos.childrensplace.com/wfc/logon",
+  "timecards": "https://mykronos.childrensplace.com/wfc/logon",
+  "hr": "http://tcpnet/Pages/default.aspx",
+  "askhr": "https://tcpprod.service-now.com/hr?id=home",
+  "cab": "https://cplace.sharepoint.com/sites/IT/OSG/ChangeControl/",
+  "benefits": "https://titania.winstonfinancial.com/portal/The%20Children's%20Place/main%20portal/login",
+  "ea": "https://cplace.sharepoint.com/sites/EnterpriseArchitecture",
+  "o365": "https://www.office.com/?auth=2",
+  "email": "http://outlook.office.com",
+  "supportticket": "https://tcpprod.service-now.com/nav_to.do?uri=%2Fincident.do%3Fsys_id%3D-1%26sysparm_query%3Dactive%3Dtrue%26sysparm_stack%3Dincident_list.do%3Fsysparm_query%3Dactive%3Dtrue"
 }

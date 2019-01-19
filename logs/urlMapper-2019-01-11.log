@@ -1,0 +1,165 @@
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 14:57:52"}
+info: TCPHQ\jdougherty GET /admin {"timestamp":"2019-01-11 14:57:58"}
+info: admin /admin {"timestamp":"2019-01-11 14:57:58"}
+info: TCPHQ\jdougherty GET /assets/style.css {"timestamp":"2019-01-11 14:57:58"}
+info: TCPHQ\jdougherty GET /assets/main.js {"timestamp":"2019-01-11 14:57:58"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 14:57:59"}
+info: getting list of links {"timestamp":"2019-01-11 14:57:59"}
+info: Getting all links {"timestamp":"2019-01-11 14:57:59"}
+info: TCPHQ\jdougherty GET /favicon.ico {"timestamp":"2019-01-11 14:57:59"}
+info: TCPHQ\jdougherty GET /admin/Workday {"timestamp":"2019-01-11 14:58:08"}
+info: get Workday {"timestamp":"2019-01-11 14:58:09"}
+info: Getting Workday {"timestamp":"2019-01-11 14:58:09"}
+info: Returning undefined {"timestamp":"2019-01-11 14:58:09"}
+info: TCPHQ\jdougherty POST /Workday {"timestamp":"2019-01-11 14:58:16"}
+info: /link Workday https://www.myworkday.com/childrensplace/d/home.htmld {"timestamp":"2019-01-11 14:58:16"}
+info: Setting Workday to https://www.myworkday.com/childrensplace/d/home.htmld {"timestamp":"2019-01-11 14:58:16"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 14:58:16"}
+info: getting list of links {"timestamp":"2019-01-11 14:58:16"}
+info: Getting all links {"timestamp":"2019-01-11 14:58:16"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 14:58:17"}
+info: TCPHQ\jdougherty GET /admin/Kronos {"timestamp":"2019-01-11 14:58:28"}
+info: get Kronos {"timestamp":"2019-01-11 14:58:28"}
+info: Getting Kronos {"timestamp":"2019-01-11 14:58:28"}
+info: Returning undefined {"timestamp":"2019-01-11 14:58:28"}
+info: TCPHQ\jdougherty POST /Kronos {"timestamp":"2019-01-11 14:58:29"}
+info: /link Kronos https://mykronos.childrensplace.com/wfc/logon {"timestamp":"2019-01-11 14:58:29"}
+info: Setting Kronos to https://mykronos.childrensplace.com/wfc/logon {"timestamp":"2019-01-11 14:58:29"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 14:58:29"}
+info: getting list of links {"timestamp":"2019-01-11 14:58:29"}
+info: Getting all links {"timestamp":"2019-01-11 14:58:29"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 14:58:30"}
+info: TCPHQ\jdougherty GET /admin/TimeCards {"timestamp":"2019-01-11 14:58:35"}
+info: get TimeCards {"timestamp":"2019-01-11 14:58:35"}
+info: Getting TimeCards {"timestamp":"2019-01-11 14:58:35"}
+info: Returning undefined {"timestamp":"2019-01-11 14:58:35"}
+info: TCPHQ\jdougherty POST /TimeCards {"timestamp":"2019-01-11 14:58:37"}
+info: /link TimeCards https://mykronos.childrensplace.com/wfc/logon {"timestamp":"2019-01-11 14:58:37"}
+info: Setting TimeCards to https://mykronos.childrensplace.com/wfc/logon {"timestamp":"2019-01-11 14:58:37"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 14:58:37"}
+info: getting list of links {"timestamp":"2019-01-11 14:58:37"}
+info: Getting all links {"timestamp":"2019-01-11 14:58:37"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 14:58:38"}
+info: TCPHQ\jdougherty GET /admin/HR {"timestamp":"2019-01-11 14:58:46"}
+info: get HR {"timestamp":"2019-01-11 14:58:46"}
+info: Getting HR {"timestamp":"2019-01-11 14:58:46"}
+info: Returning undefined {"timestamp":"2019-01-11 14:58:46"}
+info: TCPHQ\jdougherty POST /HR {"timestamp":"2019-01-11 14:58:47"}
+info: /link HR http://tcpnet/Pages/default.aspx {"timestamp":"2019-01-11 14:58:47"}
+info: Setting HR to http://tcpnet/Pages/default.aspx {"timestamp":"2019-01-11 14:58:47"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 14:58:47"}
+info: getting list of links {"timestamp":"2019-01-11 14:58:47"}
+info: Getting all links {"timestamp":"2019-01-11 14:58:47"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 14:58:48"}
+info: TCPHQ\jdougherty GET /admin/AskHR {"timestamp":"2019-01-11 14:58:57"}
+info: get AskHR {"timestamp":"2019-01-11 14:58:57"}
+info: Getting AskHR {"timestamp":"2019-01-11 14:58:57"}
+info: Returning undefined {"timestamp":"2019-01-11 14:58:57"}
+info: TCPHQ\jdougherty POST /AskHR {"timestamp":"2019-01-11 14:58:58"}
+info: /link AskHR https://tcpprod.service-now.com/hr?id=home {"timestamp":"2019-01-11 14:58:58"}
+info: Setting AskHR to https://tcpprod.service-now.com/hr?id=home {"timestamp":"2019-01-11 14:58:58"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 14:58:58"}
+info: getting list of links {"timestamp":"2019-01-11 14:58:58"}
+info: Getting all links {"timestamp":"2019-01-11 14:58:58"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 14:58:58"}
+info: TCPHQ\jdougherty GET /admin/CAB {"timestamp":"2019-01-11 14:59:09"}
+info: get CAB {"timestamp":"2019-01-11 14:59:09"}
+info: Getting CAB {"timestamp":"2019-01-11 14:59:09"}
+info: Returning undefined {"timestamp":"2019-01-11 14:59:09"}
+info: TCPHQ\jdougherty POST /CAB {"timestamp":"2019-01-11 14:59:10"}
+info: /link CAB https://cplace.sharepoint.com/sites/IT/OSG/ChangeControl/ {"timestamp":"2019-01-11 14:59:10"}
+info: Setting CAB to https://cplace.sharepoint.com/sites/IT/OSG/ChangeControl/ {"timestamp":"2019-01-11 14:59:10"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 14:59:10"}
+info: getting list of links {"timestamp":"2019-01-11 14:59:10"}
+info: Getting all links {"timestamp":"2019-01-11 14:59:10"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 14:59:11"}
+info: TCPHQ\jdougherty DELETE /benefits {"timestamp":"2019-01-11 14:59:25"}
+info: TCPHQ\jdougherty delete benefits {"timestamp":"2019-01-11 14:59:25"}
+info: Deleting benefits {"timestamp":"2019-01-11 14:59:25"}
+info: Getting benefits {"timestamp":"2019-01-11 14:59:25"}
+info: Returning http://www.cnn.com {"timestamp":"2019-01-11 14:59:25"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 14:59:25"}
+info: getting list of links {"timestamp":"2019-01-11 14:59:25"}
+info: Getting all links {"timestamp":"2019-01-11 14:59:25"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 14:59:26"}
+info: TCPHQ\jdougherty GET /admin/Benefits {"timestamp":"2019-01-11 14:59:36"}
+info: get Benefits {"timestamp":"2019-01-11 14:59:36"}
+info: Getting Benefits {"timestamp":"2019-01-11 14:59:36"}
+info: Returning undefined {"timestamp":"2019-01-11 14:59:36"}
+info: TCPHQ\jdougherty POST /Benefits {"timestamp":"2019-01-11 14:59:39"}
+info: /link Benefits https://titania.winstonfinancial.com/portal/The%20Children's%20Place/main%20portal/login {"timestamp":"2019-01-11 14:59:39"}
+info: Setting Benefits to https://titania.winstonfinancial.com/portal/The%20Children's%20Place/main%20portal/login {"timestamp":"2019-01-11 14:59:39"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 14:59:39"}
+info: getting list of links {"timestamp":"2019-01-11 14:59:39"}
+info: Getting all links {"timestamp":"2019-01-11 14:59:39"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 14:59:40"}
+info: TCPHQ\jdougherty GET /admin/EA {"timestamp":"2019-01-11 14:59:47"}
+info: get EA {"timestamp":"2019-01-11 14:59:47"}
+info: Getting EA {"timestamp":"2019-01-11 14:59:47"}
+info: Returning undefined {"timestamp":"2019-01-11 14:59:47"}
+info: TCPHQ\jdougherty POST /EA {"timestamp":"2019-01-11 14:59:48"}
+info: /link EA https://cplace.sharepoint.com/sites/EnterpriseArchitecture {"timestamp":"2019-01-11 14:59:49"}
+info: Setting EA to https://cplace.sharepoint.com/sites/EnterpriseArchitecture {"timestamp":"2019-01-11 14:59:49"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 14:59:49"}
+info: getting list of links {"timestamp":"2019-01-11 14:59:49"}
+info: Getting all links {"timestamp":"2019-01-11 14:59:49"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 14:59:49"}
+info: TCPHQ\jdougherty GET /admin/O365 {"timestamp":"2019-01-11 14:59:59"}
+info: get O365 {"timestamp":"2019-01-11 14:59:59"}
+info: Getting O365 {"timestamp":"2019-01-11 14:59:59"}
+info: Returning undefined {"timestamp":"2019-01-11 14:59:59"}
+info: TCPHQ\jdougherty POST /O365 {"timestamp":"2019-01-11 15:00:00"}
+info: /link O365 https://www.office.com/?auth=2 {"timestamp":"2019-01-11 15:00:00"}
+info: Setting O365 to https://www.office.com/?auth=2 {"timestamp":"2019-01-11 15:00:00"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 15:00:00"}
+info: getting list of links {"timestamp":"2019-01-11 15:00:00"}
+info: Getting all links {"timestamp":"2019-01-11 15:00:00"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 15:00:01"}
+info: TCPHQ\jdougherty GET /admin/email {"timestamp":"2019-01-11 15:00:09"}
+info: get email {"timestamp":"2019-01-11 15:00:09"}
+info: Getting email {"timestamp":"2019-01-11 15:00:09"}
+info: Returning undefined {"timestamp":"2019-01-11 15:00:09"}
+info: TCPHQ\jdougherty POST /email {"timestamp":"2019-01-11 15:00:09"}
+info: /link email http://outlook.office.com {"timestamp":"2019-01-11 15:00:09"}
+info: Setting email to http://outlook.office.com {"timestamp":"2019-01-11 15:00:09"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 15:00:09"}
+info: getting list of links {"timestamp":"2019-01-11 15:00:09"}
+info: Getting all links {"timestamp":"2019-01-11 15:00:09"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 15:00:10"}
+info: TCPHQ\jdougherty GET /admin/SupportTicket {"timestamp":"2019-01-11 15:00:20"}
+info: get SupportTicket {"timestamp":"2019-01-11 15:00:20"}
+info: Getting SupportTicket {"timestamp":"2019-01-11 15:00:20"}
+info: Returning undefined {"timestamp":"2019-01-11 15:00:20"}
+info: TCPHQ\jdougherty POST /SupportTicket {"timestamp":"2019-01-11 15:00:21"}
+info: /link SupportTicket https://tcpprod.service-now.com/nav_to.do?uri=%2Fincident.do%3Fsys_id%3D-1%26sysparm_query%3Dactive%3Dtrue%26sysparm_stack%3Dincident_list.do%3Fsysparm_query%3Dactive%3Dtrue {"timestamp":"2019-01-11 15:00:21"}
+info: Setting SupportTicket to https://tcpprod.service-now.com/nav_to.do?uri=%2Fincident.do%3Fsys_id%3D-1%26sysparm_query%3Dactive%3Dtrue%26sysparm_stack%3Dincident_list.do%3Fsysparm_query%3Dactive%3Dtrue {"timestamp":"2019-01-11 15:00:21"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 15:00:21"}
+info: getting list of links {"timestamp":"2019-01-11 15:00:21"}
+info: Getting all links {"timestamp":"2019-01-11 15:00:21"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 15:00:22"}
+info: TCPHQ\jdougherty DELETE /gaf {"timestamp":"2019-01-11 15:00:26"}
+info: TCPHQ\jdougherty delete gaf {"timestamp":"2019-01-11 15:00:26"}
+info: Deleting gaf {"timestamp":"2019-01-11 15:00:26"}
+info: Getting gaf {"timestamp":"2019-01-11 15:00:26"}
+info: Returning http://www.gaf.com {"timestamp":"2019-01-11 15:00:26"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 15:00:26"}
+info: getting list of links {"timestamp":"2019-01-11 15:00:26"}
+info: Getting all links {"timestamp":"2019-01-11 15:00:26"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 15:00:27"}
+info: TCPHQ\jdougherty DELETE /gafnew {"timestamp":"2019-01-11 15:00:28"}
+info: TCPHQ\jdougherty delete gafnew {"timestamp":"2019-01-11 15:00:28"}
+info: Deleting gafnew {"timestamp":"2019-01-11 15:00:28"}
+info: Getting gafnew {"timestamp":"2019-01-11 15:00:28"}
+info: Returning http://www.cnn.com {"timestamp":"2019-01-11 15:00:28"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 15:00:28"}
+info: getting list of links {"timestamp":"2019-01-11 15:00:28"}
+info: Getting all links {"timestamp":"2019-01-11 15:00:28"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 15:00:29"}
+info: TCPHQ\jdougherty DELETE /rrrr {"timestamp":"2019-01-11 15:00:33"}
+info: TCPHQ\jdougherty delete rrrr {"timestamp":"2019-01-11 15:00:33"}
+info: Deleting rrrr {"timestamp":"2019-01-11 15:00:33"}
+info: Getting rrrr {"timestamp":"2019-01-11 15:00:33"}
+info: Returning eeee {"timestamp":"2019-01-11 15:00:33"}
+info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 15:00:33"}
+info: getting list of links {"timestamp":"2019-01-11 15:00:33"}
+info: Getting all links {"timestamp":"2019-01-11 15:00:33"}
