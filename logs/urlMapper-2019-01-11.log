@@ -163,3 +163,8 @@ info: Returning eeee {"timestamp":"2019-01-11 15:00:33"}
 info: TCPHQ\jdougherty GET /links {"timestamp":"2019-01-11 15:00:33"}
 info: getting list of links {"timestamp":"2019-01-11 15:00:33"}
 info: Getting all links {"timestamp":"2019-01-11 15:00:33"}
+info: urlMapper app listening on port 80 {"timestamp":"2019-01-11 15:00:35"}
+info: TCPHQ\jdougherty GET /workday {"timestamp":"2019-01-11 16:01:01"}
+info: TCPHQ\jdougherty get /workday {"timestamp":"2019-01-11 16:01:01"}
+info: Getting workday {"timestamp":"2019-01-11 16:01:01"}
+info: Returning https://www.myworkday.com/childrensplace/d/home.htmld {"timestamp":"2019-01-11 16:01:01"}
